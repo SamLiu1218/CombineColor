@@ -175,7 +175,7 @@ def add_legend(im, pcolor_dict, bg=(0,0,0)):
     textwidth = font.getsize(fulltext)[0]
     if textwidth > width:
         padding = int(np.floor(width/textwidth*padding))
-        fontheight = int(padding*0.85)
+        fontheight = int(padding*0.7)
         font = ImageFont.truetype(Fontttf, fontheight)
     
     new_height = height + padding
