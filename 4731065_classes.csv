@@ -1,0 +1,2925 @@
+,Tile,Class
+210059,291_12,Unannotated
+210060,292_12,Unannotated
+210061,293_12,Unannotated
+210062,294_12,Unannotated
+210063,295_12,Unannotated
+210064,296_12,Unannotated
+210065,287_13,Unannotated
+210066,288_13,Unannotated
+210067,290_13,Unannotated
+210068,291_13,Unannotated
+210069,292_13,Unannotated
+210070,293_13,Unannotated
+210071,294_13,Unannotated
+210072,295_13,Unannotated
+210073,296_13,Unannotated
+210074,297_13,Unannotated
+210075,288_14,Unannotated
+210076,289_14,Unannotated
+210077,290_14,Unannotated
+210078,291_14,Unannotated
+210079,292_14,Unannotated
+210080,293_14,Unannotated
+210081,294_14,Unannotated
+210082,295_14,Unannotated
+210083,296_14,Unannotated
+210084,297_14,Unannotated
+210085,298_14,Unannotated
+210086,299_14,Unannotated
+210087,287_15,Unannotated
+210088,288_15,Unannotated
+210089,289_15,Unannotated
+210090,290_15,Unannotated
+210091,291_15,Unannotated
+210092,292_15,Unannotated
+210093,293_15,Unannotated
+210094,294_15,Unannotated
+210095,295_15,Unannotated
+210096,296_15,Unannotated
+210097,297_15,Unannotated
+210098,298_15,Unannotated
+210099,299_15,Unannotated
+210100,300_15,Unannotated
+210101,301_15,Unannotated
+210102,287_16,Broad normal dermis
+210103,288_16,Broad normal dermis
+210104,289_16,Unannotated
+210105,290_16,Unannotated
+210106,291_16,Unannotated
+210107,292_16,Unannotated
+210108,293_16,Unannotated
+210109,294_16,Unannotated
+210110,295_16,Unannotated
+210111,296_16,Unannotated
+210112,297_16,Unannotated
+210113,298_16,Unannotated
+210114,299_16,Unannotated
+210115,300_16,Unannotated
+210116,301_16,Unannotated
+210117,302_16,Unannotated
+210118,303_16,Unannotated
+210119,304_16,Unannotated
+210120,284_17,Broad normal dermis
+210121,285_17,Broad normal dermis
+210122,286_17,Broad normal dermis
+210123,287_17,Broad normal dermis
+210124,288_17,Broad normal dermis
+210125,289_17,Unannotated
+210126,290_17,Unannotated
+210127,291_17,Unannotated
+210128,292_17,Unannotated
+210129,293_17,Unannotated
+210130,294_17,Unannotated
+210131,295_17,Unannotated
+210132,296_17,Unannotated
+210133,297_17,Unannotated
+210134,298_17,Unannotated
+210135,299_17,Unannotated
+210136,300_17,Unannotated
+210137,301_17,Unannotated
+210138,302_17,Unannotated
+210139,303_17,Unannotated
+210140,304_17,Unannotated
+210141,283_18,Broad normal dermis
+210142,284_18,Broad normal dermis
+210143,285_18,Broad normal dermis
+210144,286_18,Broad normal dermis
+210145,287_18,Broad normal dermis
+210146,288_18,Broad normal dermis
+210147,289_18,Unannotated
+210148,290_18,Unannotated
+210149,291_18,Unannotated
+210150,292_18,Unannotated
+210151,293_18,Unannotated
+210152,294_18,Unannotated
+210153,295_18,Unannotated
+210154,296_18,Unannotated
+210155,297_18,Unannotated
+210156,298_18,Unannotated
+210157,299_18,Unannotated
+210158,300_18,Unannotated
+210159,301_18,Unannotated
+210160,302_18,Unannotated
+210161,303_18,Unannotated
+210162,304_18,Unannotated
+210163,306_18,Unannotated
+210164,307_18,Unannotated
+210165,283_19,Broad normal dermis
+210166,284_19,Broad normal dermis
+210167,285_19,Broad normal dermis
+210168,286_19,Broad normal dermis
+210169,287_19,Broad normal dermis
+210170,288_19,Unannotated
+210171,289_19,Unannotated
+210172,290_19,Unannotated
+210173,291_19,Unannotated
+210174,292_19,Unannotated
+210175,293_19,Unannotated
+210176,294_19,Unannotated
+210177,295_19,Unannotated
+210178,296_19,Unannotated
+210179,297_19,Unannotated
+210180,298_19,Unannotated
+210181,299_19,Unannotated
+210182,300_19,Unannotated
+210183,301_19,Unannotated
+210184,302_19,Unannotated
+210185,303_19,Unannotated
+210186,304_19,Unannotated
+210187,305_19,Unannotated
+210188,306_19,Unannotated
+210189,307_19,Unannotated
+210190,308_19,Unannotated
+210191,309_19,Unannotated
+210192,310_19,Unannotated
+210193,282_20,Broad normal dermis
+210194,283_20,Broad normal dermis
+210195,284_20,Broad normal dermis
+210196,285_20,Broad normal dermis
+210197,286_20,Unannotated
+210198,287_20,Unannotated
+210199,288_20,Unannotated
+210200,289_20,Unannotated
+210201,290_20,Unannotated
+210202,291_20,Unannotated
+210203,292_20,Unannotated
+210204,293_20,Unannotated
+210205,294_20,Unannotated
+210206,295_20,Unannotated
+210207,296_20,Unannotated
+210208,297_20,Unannotated
+210209,298_20,Unannotated
+210210,299_20,Unannotated
+210211,300_20,Unannotated
+210212,301_20,Unannotated
+210213,302_20,Broad normal dermis
+210214,303_20,Broad normal dermis
+210215,304_20,Broad normal dermis
+210216,305_20,Unannotated
+210217,306_20,Unannotated
+210218,307_20,Unannotated
+210219,308_20,Unannotated
+210220,309_20,Unannotated
+210221,310_20,Unannotated
+210222,311_20,Unannotated
+210223,279_21,Unannotated
+210224,280_21,Unannotated
+210225,281_21,Unannotated
+210226,282_21,Broad normal dermis
+210227,283_21,Broad normal dermis
+210228,284_21,Broad normal dermis
+210229,285_21,Broad normal dermis
+210230,286_21,Unannotated
+210231,287_21,Unannotated
+210232,288_21,Unannotated
+210233,289_21,Unannotated
+210234,290_21,Unannotated
+210235,291_21,Unannotated
+210236,292_21,Unannotated
+210237,293_21,Unannotated
+210238,294_21,Unannotated
+210239,295_21,Unannotated
+210240,296_21,Unannotated
+210241,297_21,Unannotated
+210242,298_21,Unannotated
+210243,299_21,Fat
+210244,300_21,Unannotated
+210245,301_21,Unannotated
+210246,302_21,Broad normal dermis
+210247,303_21,Broad normal dermis
+210248,304_21,Broad normal dermis
+210249,305_21,Broad normal dermis
+210250,306_21,Unannotated
+210251,307_21,Unannotated
+210252,308_21,Unannotated
+210253,309_21,Unannotated
+210254,310_21,Unannotated
+210255,311_21,Unannotated
+210256,279_22,Unannotated
+210257,280_22,Unannotated
+210258,281_22,Unannotated
+210259,282_22,Broad normal dermis
+210260,283_22,Broad normal dermis
+210261,284_22,Broad normal dermis
+210262,285_22,Broad normal dermis
+210263,286_22,Unannotated
+210264,287_22,Unannotated
+210265,288_22,Unannotated
+210266,289_22,Unannotated
+210267,290_22,Unannotated
+210268,291_22,Unannotated
+210269,292_22,Unannotated
+210270,293_22,Unannotated
+210271,294_22,Unannotated
+210272,295_22,Unannotated
+210273,296_22,Unannotated
+210274,297_22,Unannotated
+210275,298_22,Fat
+210276,299_22,Fat
+210277,300_22,Unannotated
+210278,301_22,Broad normal dermis
+210279,302_22,Broad normal dermis
+210280,303_22,Broad normal dermis
+210281,304_22,Broad normal dermis
+210282,305_22,Broad normal dermis
+210283,306_22,Unannotated
+210284,307_22,Unannotated
+210285,308_22,Unannotated
+210286,309_22,Unannotated
+210287,310_22,Unannotated
+210288,311_22,Unannotated
+210289,312_22,Unannotated
+210290,279_23,Unannotated
+210291,280_23,Unannotated
+210292,281_23,Unannotated
+210293,282_23,Unannotated
+210294,283_23,Broad normal dermis
+210295,284_23,Broad normal dermis
+210296,285_23,Broad normal dermis
+210297,286_23,Unannotated
+210298,287_23,Unannotated
+210299,288_23,Unannotated
+210300,289_23,Unannotated
+210301,290_23,Unannotated
+210302,291_23,Unannotated
+210303,292_23,Unannotated
+210304,293_23,Unannotated
+210305,294_23,Unannotated
+210306,295_23,Unannotated
+210307,296_23,Unannotated
+210308,297_23,Unannotated
+210309,298_23,Unannotated
+210310,299_23,Unannotated
+210311,300_23,Unannotated
+210312,301_23,Broad normal dermis
+210313,302_23,Broad normal dermis
+210314,303_23,Broad normal dermis
+210315,304_23,Broad normal dermis
+210316,305_23,Broad normal dermis
+210317,306_23,Unannotated
+210318,307_23,Unannotated
+210319,308_23,Unannotated
+210320,309_23,Unannotated
+210321,310_23,Unannotated
+210322,311_23,Unannotated
+210323,312_23,Unannotated
+210324,313_23,Unannotated
+210325,314_23,Unannotated
+210326,279_24,Unannotated
+210327,280_24,Unannotated
+210328,281_24,Unannotated
+210329,282_24,Broad normal dermis
+210330,283_24,Broad normal dermis
+210331,284_24,Broad normal dermis
+210332,285_24,Broad normal dermis
+210333,286_24,Broad normal dermis
+210334,287_24,Broad normal dermis
+210335,288_24,Unannotated
+210336,289_24,Unannotated
+210337,290_24,Unannotated
+210338,291_24,Unannotated
+210339,292_24,Unannotated
+210340,293_24,Unannotated
+210341,294_24,Unannotated
+210342,295_24,Unannotated
+210343,296_24,Unannotated
+210344,297_24,Unannotated
+210345,298_24,Unannotated
+210346,299_24,Fat
+210347,300_24,Fat
+210348,301_24,Unannotated
+210349,302_24,Broad normal dermis
+210350,303_24,Broad normal dermis
+210351,304_24,Broad normal dermis
+210352,305_24,Broad normal dermis
+210353,306_24,Unannotated
+210354,307_24,Unannotated
+210355,308_24,Unannotated
+210356,309_24,Unannotated
+210357,310_24,Unannotated
+210358,311_24,Unannotated
+210359,312_24,Unannotated
+210360,313_24,Unannotated
+210361,314_24,Unannotated
+210362,279_25,Unannotated
+210363,280_25,Unannotated
+210364,281_25,Unannotated
+210365,282_25,Broad normal dermis
+210366,283_25,Broad normal dermis
+210367,284_25,Broad normal dermis
+210368,285_25,Broad normal dermis
+210369,286_25,Broad normal dermis
+210370,287_25,Broad normal dermis
+210371,288_25,Unannotated
+210372,289_25,Unannotated
+210373,290_25,Unannotated
+210374,291_25,Unannotated
+210375,292_25,Broad normal dermis
+210376,293_25,Broad normal dermis
+210377,294_25,Broad normal dermis
+210378,295_25,Broad normal dermis
+210379,296_25,Unannotated
+210380,297_25,Fat
+210381,298_25,Fat
+210382,299_25,Fat
+210383,300_25,Unannotated
+210384,301_25,Unannotated
+210385,302_25,Unannotated
+210386,303_25,Unannotated
+210387,304_25,Unannotated
+210388,305_25,Unannotated
+210389,306_25,Unannotated
+210390,307_25,Unannotated
+210391,308_25,Unannotated
+210392,309_25,Unannotated
+210393,310_25,Unannotated
+210394,311_25,Unannotated
+210395,312_25,Unannotated
+210396,313_25,Unannotated
+210397,314_25,Unannotated
+210398,315_25,Unannotated
+210399,279_26,Unannotated
+210400,280_26,Unannotated
+210401,281_26,Unannotated
+210402,282_26,Broad normal dermis
+210403,283_26,Broad normal dermis
+210404,284_26,Broad normal dermis
+210405,285_26,Broad normal dermis
+210406,286_26,Broad normal dermis
+210407,287_26,Broad normal dermis
+210408,288_26,Unannotated
+210409,289_26,Unannotated
+210410,290_26,Unannotated
+210411,291_26,Unannotated
+210412,292_26,Broad normal dermis
+210413,293_26,Broad normal dermis
+210414,294_26,Broad normal dermis
+210415,295_26,Broad normal dermis
+210416,296_26,Broad normal dermis
+210417,297_26,Unannotated
+210418,298_26,Fat
+210419,299_26,Fat
+210420,300_26,Unannotated
+210421,301_26,Unannotated
+210422,302_26,Unannotated
+210423,303_26,Unannotated
+210424,304_26,Unannotated
+210425,305_26,Unannotated
+210426,306_26,Unannotated
+210427,307_26,Unannotated
+210428,308_26,Unannotated
+210429,309_26,Unannotated
+210430,310_26,Unannotated
+210431,311_26,Unannotated
+210432,312_26,Unannotated
+210433,313_26,Unannotated
+210434,314_26,Unannotated
+210435,315_26,Unannotated
+210436,316_26,Unannotated
+210437,277_27,Unannotated
+210438,279_27,Unannotated
+210439,280_27,Unannotated
+210440,281_27,Unannotated
+210441,282_27,Broad normal dermis
+210442,283_27,Broad normal dermis
+210443,284_27,Broad normal dermis
+210444,285_27,Broad normal dermis
+210445,286_27,Broad normal dermis
+210446,287_27,Broad normal dermis
+210447,288_27,Unannotated
+210448,289_27,Unannotated
+210449,290_27,Unannotated
+210450,291_27,Broad normal dermis
+210451,292_27,Broad normal dermis
+210452,293_27,Broad normal dermis
+210453,294_27,Broad normal dermis
+210454,295_27,Broad normal dermis
+210455,296_27,Broad normal dermis
+210456,297_27,Unannotated
+210457,298_27,Fat
+210458,299_27,Eccrine
+210459,300_27,Unannotated
+210460,301_27,Unannotated
+210461,302_27,Unannotated
+210462,303_27,Unannotated
+210463,304_27,Unannotated
+210464,305_27,Unannotated
+210465,306_27,Unannotated
+210466,307_27,Unannotated
+210467,308_27,Unannotated
+210468,309_27,Unannotated
+210469,310_27,Unannotated
+210470,311_27,Unannotated
+210471,312_27,Unannotated
+210472,313_27,Unannotated
+210473,314_27,Unannotated
+210474,315_27,Unannotated
+210475,316_27,Unannotated
+210476,276_28,Unannotated
+210477,277_28,Unannotated
+210478,278_28,Unannotated
+210479,279_28,Unannotated
+210480,280_28,Unannotated
+210481,281_28,Unannotated
+210482,282_28,Broad normal dermis
+210483,283_28,Broad normal dermis
+210484,284_28,Broad normal dermis
+210485,285_28,Broad normal dermis
+210486,286_28,Broad normal dermis
+210487,287_28,Broad normal dermis
+210488,288_28,Unannotated
+210489,289_28,Unannotated
+210490,290_28,Unannotated
+210491,291_28,Broad normal dermis
+210492,292_28,Broad normal dermis
+210493,293_28,Broad normal dermis
+210494,294_28,Broad normal dermis
+210495,295_28,Broad normal dermis
+210496,296_28,Broad normal dermis
+210497,297_28,Unannotated
+210498,298_28,Fat
+210499,299_28,Eccrine
+210500,300_28,Eccrine
+210501,301_28,Unannotated
+210502,302_28,Unannotated
+210503,303_28,Broad normal dermis
+210504,304_28,Broad normal dermis
+210505,305_28,Broad normal dermis
+210506,306_28,Broad normal dermis
+210507,307_28,Unannotated
+210508,308_28,Unannotated
+210509,309_28,Unannotated
+210510,310_28,Unannotated
+210511,311_28,Unannotated
+210512,312_28,Unannotated
+210513,313_28,Unannotated
+210514,314_28,Unannotated
+210515,315_28,Unannotated
+210516,316_28,Unannotated
+210517,317_28,Unannotated
+210518,275_29,Lymphoma
+210519,276_29,Lymphoma
+210520,277_29,Unannotated
+210521,278_29,Unannotated
+210522,279_29,Unannotated
+210523,280_29,Unannotated
+210524,281_29,Unannotated
+210525,282_29,Broad normal dermis
+210526,283_29,Broad normal dermis
+210527,284_29,Broad normal dermis
+210528,285_29,Broad normal dermis
+210529,286_29,Broad normal dermis
+210530,287_29,Broad normal dermis
+210531,288_29,Unannotated
+210532,289_29,Unannotated
+210533,290_29,Unannotated
+210534,291_29,Unannotated
+210535,292_29,Broad normal dermis
+210536,293_29,Broad normal dermis
+210537,294_29,Broad normal dermis
+210538,295_29,Broad normal dermis
+210539,296_29,Broad normal dermis
+210540,297_29,Unannotated
+210541,298_29,Eccrine
+210542,299_29,Eccrine
+210543,300_29,Eccrine
+210544,301_29,Unannotated
+210545,302_29,Unannotated
+210546,303_29,Broad normal dermis
+210547,304_29,Broad normal dermis
+210548,305_29,Broad normal dermis
+210549,306_29,Broad normal dermis
+210550,307_29,Broad normal dermis
+210551,308_29,Unannotated
+210552,309_29,Unannotated
+210553,310_29,Unannotated
+210554,311_29,Unannotated
+210555,312_29,Unannotated
+210556,313_29,Unannotated
+210557,314_29,Unannotated
+210558,315_29,Unannotated
+210559,316_29,Unannotated
+210560,275_30,Lymphoma
+210561,276_30,Lymphoma
+210562,277_30,Lymphoma
+210563,278_30,Unannotated
+210564,279_30,Unannotated
+210565,280_30,Unannotated
+210566,281_30,Unannotated
+210567,282_30,Unannotated
+210568,283_30,Unannotated
+210569,284_30,Unannotated
+210570,285_30,Unannotated
+210571,286_30,Unannotated
+210572,287_30,Unannotated
+210573,288_30,Unannotated
+210574,289_30,Unannotated
+210575,290_30,Unannotated
+210576,291_30,Unannotated
+210577,292_30,Broad normal dermis
+210578,293_30,Broad normal dermis
+210579,294_30,Broad normal dermis
+210580,295_30,Broad normal dermis
+210581,296_30,Unannotated
+210582,297_30,Unannotated
+210583,298_30,Unannotated
+210584,299_30,Eccrine
+210585,300_30,Eccrine
+210586,301_30,Unannotated
+210587,302_30,Broad normal dermis
+210588,303_30,Broad normal dermis
+210589,304_30,Broad normal dermis
+210590,305_30,Broad normal dermis
+210591,306_30,Broad normal dermis
+210592,307_30,Broad normal dermis
+210593,308_30,Broad normal dermis
+210594,309_30,Unannotated
+210595,310_30,Eccrine
+210596,311_30,Eccrine
+210597,312_30,Eccrine
+210598,313_30,Eccrine
+210599,314_30,Unannotated
+210600,315_30,Unannotated
+210601,316_30,Unannotated
+210602,317_30,Unannotated
+210603,274_31,Lymphoma
+210604,275_31,Lymphoma
+210605,276_31,Lymphoma
+210606,277_31,Lymphoma
+210607,278_31,Lymphoma
+210608,279_31,Unannotated
+210609,280_31,Unannotated
+210610,281_31,Unannotated
+210611,282_31,Unannotated
+210612,283_31,Unannotated
+210613,284_31,Unannotated
+210614,285_31,Unannotated
+210615,286_31,Unannotated
+210616,287_31,Unannotated
+210617,288_31,Unannotated
+210618,289_31,Unannotated
+210619,290_31,Unannotated
+210620,291_31,Unannotated
+210621,292_31,Unannotated
+210622,293_31,Unannotated
+210623,294_31,Unannotated
+210624,295_31,Unannotated
+210625,296_31,Unannotated
+210626,297_31,Unannotated
+210627,298_31,Unannotated
+210628,299_31,Unannotated
+210629,300_31,Unannotated
+210630,301_31,Unannotated
+210631,302_31,Broad normal dermis
+210632,303_31,Broad normal dermis
+210633,304_31,Broad normal dermis
+210634,305_31,Broad normal dermis
+210635,306_31,Broad normal dermis
+210636,307_31,Broad normal dermis
+210637,308_31,Broad normal dermis
+210638,309_31,Eccrine
+210639,310_31,Eccrine
+210640,311_31,Eccrine
+210641,312_31,Eccrine
+210642,313_31,Eccrine
+210643,314_31,Unannotated
+210644,315_31,Unannotated
+210645,316_31,Unannotated
+210646,317_31,Unannotated
+210647,318_31,Unannotated
+210648,273_32,Lymphoma
+210649,274_32,Lymphoma
+210650,275_32,Lymphoma
+210651,276_32,Lymphoma
+210652,277_32,Lymphoma
+210653,278_32,Lymphoma
+210654,279_32,Lymphoma
+210655,280_32,Unannotated
+210656,281_32,Unannotated
+210657,282_32,Unannotated
+210658,283_32,Unannotated
+210659,284_32,Unannotated
+210660,285_32,Unannotated
+210661,286_32,Unannotated
+210662,287_32,Unannotated
+210663,288_32,Unannotated
+210664,289_32,Unannotated
+210665,290_32,Unannotated
+210666,291_32,Unannotated
+210667,292_32,Unannotated
+210668,293_32,Unannotated
+210669,294_32,Unannotated
+210670,295_32,Unannotated
+210671,296_32,Unannotated
+210672,297_32,Unannotated
+210673,298_32,Unannotated
+210674,299_32,Unannotated
+210675,300_32,Unannotated
+210676,301_32,Unannotated
+210677,302_32,Broad normal dermis
+210678,303_32,Broad normal dermis
+210679,304_32,Broad normal dermis
+210680,305_32,Broad normal dermis
+210681,306_32,Broad normal dermis
+210682,307_32,Broad normal dermis
+210683,308_32,Broad normal dermis
+210684,309_32,Unannotated
+210685,310_32,Eccrine
+210686,311_32,Eccrine
+210687,312_32,Unannotated
+210688,313_32,Unannotated
+210689,314_32,Unannotated
+210690,315_32,Unannotated
+210691,316_32,Unannotated
+210692,317_32,Unannotated
+210693,318_32,Unannotated
+210694,273_33,Lymphoma
+210695,274_33,Lymphoma
+210696,275_33,Lymphoma
+210697,276_33,Lymphoma
+210698,277_33,Lymphoma
+210699,278_33,Lymphoma
+210700,279_33,Lymphoma
+210701,280_33,Unannotated
+210702,281_33,Unannotated
+210703,282_33,Unannotated
+210704,283_33,Unannotated
+210705,284_33,Unannotated
+210706,285_33,Unannotated
+210707,286_33,Unannotated
+210708,287_33,Unannotated
+210709,288_33,Unannotated
+210710,289_33,Unannotated
+210711,290_33,Unannotated
+210712,291_33,Unannotated
+210713,292_33,Unannotated
+210714,293_33,Unannotated
+210715,294_33,Unannotated
+210716,295_33,Unannotated
+210717,296_33,Unannotated
+210718,297_33,Unannotated
+210719,298_33,Unannotated
+210720,299_33,Unannotated
+210721,300_33,Unannotated
+210722,301_33,Unannotated
+210723,302_33,Broad normal dermis
+210724,303_33,Broad normal dermis
+210725,304_33,Broad normal dermis
+210726,305_33,Broad normal dermis
+210727,306_33,Broad normal dermis
+210728,307_33,Broad normal dermis
+210729,308_33,Broad normal dermis
+210730,309_33,Unannotated
+210731,310_33,Unannotated
+210732,311_33,Unannotated
+210733,312_33,Unannotated
+210734,313_33,Unannotated
+210735,314_33,Unannotated
+210736,315_33,Unannotated
+210737,316_33,Unannotated
+210738,317_33,Unannotated
+210739,318_33,Unannotated
+210740,272_34,Unannotated
+210741,273_34,Unannotated
+210742,274_34,Unannotated
+210743,275_34,Lymphoma
+210744,276_34,Lymphoma
+210745,277_34,Lymphoma
+210746,278_34,Lymphoma
+210747,279_34,Lymphoma
+210748,280_34,Unannotated
+210749,281_34,Unannotated
+210750,282_34,Unannotated
+210751,283_34,Unannotated
+210752,284_34,Unannotated
+210753,285_34,Unannotated
+210754,286_34,Unannotated
+210755,287_34,Unannotated
+210756,288_34,Unannotated
+210757,289_34,Unannotated
+210758,290_34,Unannotated
+210759,291_34,Unannotated
+210760,292_34,Unannotated
+210761,293_34,Unannotated
+210762,294_34,Unannotated
+210763,295_34,Unannotated
+210764,296_34,Unannotated
+210765,297_34,Unannotated
+210766,298_34,Unannotated
+210767,299_34,Unannotated
+210768,300_34,Unannotated
+210769,301_34,Unannotated
+210770,302_34,Unannotated
+210771,303_34,Broad normal dermis
+210772,304_34,Broad normal dermis
+210773,305_34,Broad normal dermis
+210774,306_34,Broad normal dermis
+210775,307_34,Broad normal dermis
+210776,308_34,Unannotated
+210777,309_34,Unannotated
+210778,310_34,Unannotated
+210779,311_34,Unannotated
+210780,312_34,Unannotated
+210781,313_34,Unannotated
+210782,314_34,Unannotated
+210783,315_34,Unannotated
+210784,316_34,Unannotated
+210785,317_34,Unannotated
+210786,318_34,Unannotated
+210787,261_35,Unannotated
+210788,262_35,Unannotated
+210789,263_35,Unannotated
+210790,264_35,Unannotated
+210791,265_35,Unannotated
+210792,266_35,Unannotated
+210793,267_35,Unannotated
+210794,268_35,Unannotated
+210795,269_35,Lymphoma
+210796,270_35,Unannotated
+210797,271_35,Unannotated
+210798,272_35,Unannotated
+210799,273_35,Unannotated
+210800,274_35,Unannotated
+210801,275_35,Unannotated
+210802,276_35,Unannotated
+210803,277_35,Unannotated
+210804,278_35,Unannotated
+210805,279_35,Unannotated
+210806,280_35,Unannotated
+210807,281_35,Unannotated
+210808,282_35,Unannotated
+210809,283_35,Unannotated
+210810,284_35,Unannotated
+210811,285_35,Unannotated
+210812,286_35,Unannotated
+210813,287_35,Unannotated
+210814,288_35,Unannotated
+210815,289_35,Unannotated
+210816,290_35,Unannotated
+210817,291_35,Unannotated
+210818,292_35,Unannotated
+210819,293_35,Unannotated
+210820,294_35,Unannotated
+210821,295_35,Unannotated
+210822,296_35,Unannotated
+210823,297_35,Unannotated
+210824,298_35,Unannotated
+210825,299_35,Unannotated
+210826,300_35,Unannotated
+210827,301_35,Unannotated
+210828,302_35,Unannotated
+210829,303_35,Unannotated
+210830,304_35,Broad normal dermis
+210831,305_35,Broad normal dermis
+210832,306_35,Broad normal dermis
+210833,307_35,Unannotated
+210834,308_35,Unannotated
+210835,309_35,Unannotated
+210836,310_35,Unannotated
+210837,311_35,Unannotated
+210838,312_35,Unannotated
+210839,313_35,Unannotated
+210840,314_35,Unannotated
+210841,315_35,Unannotated
+210842,316_35,Unannotated
+210843,317_35,Unannotated
+210844,318_35,Unannotated
+210845,255_36,Unannotated
+210846,256_36,Unannotated
+210847,257_36,Unannotated
+210848,258_36,Unannotated
+210849,259_36,Unannotated
+210850,260_36,Lymphoma
+210851,261_36,Lymphoma
+210852,262_36,Unannotated
+210853,263_36,Unannotated
+210854,264_36,Unannotated
+210855,265_36,Unannotated
+210856,266_36,Unannotated
+210857,267_36,Lymphoma
+210858,268_36,Lymphoma
+210859,269_36,Lymphoma
+210860,270_36,Unannotated
+210861,271_36,Unannotated
+210862,272_36,Unannotated
+210863,273_36,Unannotated
+210864,274_36,Lymphoma
+210865,275_36,Lymphoma
+210866,276_36,Unannotated
+210867,277_36,Unannotated
+210868,278_36,Unannotated
+210869,279_36,Unannotated
+210870,280_36,Unannotated
+210871,281_36,Unannotated
+210872,282_36,Unannotated
+210873,283_36,Unannotated
+210874,284_36,Unannotated
+210875,285_36,Unannotated
+210876,286_36,Unannotated
+210877,287_36,Unannotated
+210878,288_36,Unannotated
+210879,289_36,Unannotated
+210880,290_36,Unannotated
+210881,291_36,Unannotated
+210882,292_36,Unannotated
+210883,293_36,Unannotated
+210884,294_36,Unannotated
+210885,295_36,Unannotated
+210886,296_36,Unannotated
+210887,297_36,Unannotated
+210888,298_36,Unannotated
+210889,299_36,Unannotated
+210890,300_36,Unannotated
+210891,301_36,Unannotated
+210892,302_36,Unannotated
+210893,303_36,Unannotated
+210894,304_36,Unannotated
+210895,305_36,Unannotated
+210896,306_36,Unannotated
+210897,307_36,Unannotated
+210898,308_36,Unannotated
+210899,309_36,Unannotated
+210900,310_36,Unannotated
+210901,311_36,Unannotated
+210902,312_36,Unannotated
+210903,313_36,Unannotated
+210904,314_36,Unannotated
+210905,315_36,Unannotated
+210906,316_36,Unannotated
+210907,317_36,Unannotated
+210908,318_36,Unannotated
+210909,253_37,Unannotated
+210910,254_37,Unannotated
+210911,255_37,Unannotated
+210912,256_37,Unannotated
+210913,257_37,Unannotated
+210914,258_37,Unannotated
+210915,259_37,Lymphoma
+210916,260_37,Lymphoma
+210917,261_37,Lymphoma
+210918,262_37,Unannotated
+210919,263_37,Unannotated
+210920,264_37,Unannotated
+210921,265_37,Unannotated
+210922,266_37,Lymphoma
+210923,267_37,Lymphoma
+210924,268_37,Lymphoma
+210925,269_37,Unannotated
+210926,270_37,Unannotated
+210927,271_37,Unannotated
+210928,272_37,Unannotated
+210929,273_37,Unannotated
+210930,274_37,Lymphoma
+210931,275_37,Lymphoma
+210932,276_37,Unannotated
+210933,277_37,Unannotated
+210934,278_37,Unannotated
+210935,279_37,Unannotated
+210936,280_37,Unannotated
+210937,281_37,Unannotated
+210938,282_37,Unannotated
+210939,283_37,Unannotated
+210940,284_37,Unannotated
+210941,285_37,Unannotated
+210942,286_37,Unannotated
+210943,287_37,Unannotated
+210944,288_37,Unannotated
+210945,289_37,Unannotated
+210946,290_37,Unannotated
+210947,291_37,Unannotated
+210948,292_37,Unannotated
+210949,293_37,Unannotated
+210950,294_37,Unannotated
+210951,295_37,Unannotated
+210952,296_37,Unannotated
+210953,297_37,Unannotated
+210954,298_37,Unannotated
+210955,299_37,Unannotated
+210956,300_37,Lymphoma
+210957,301_37,Lymphoma
+210958,302_37,Unannotated
+210959,303_37,Unannotated
+210960,304_37,Unannotated
+210961,305_37,Unannotated
+210962,306_37,Unannotated
+210963,307_37,Unannotated
+210964,308_37,Unannotated
+210965,309_37,Unannotated
+210966,310_37,Unannotated
+210967,311_37,Broad normal dermis
+210968,312_37,Broad normal dermis
+210969,313_37,Broad normal dermis
+210970,314_37,Unannotated
+210971,315_37,Unannotated
+210972,316_37,Unannotated
+210973,317_37,Unannotated
+210974,318_37,Unannotated
+210975,319_37,Unannotated
+210976,250_38,Unannotated
+210977,251_38,Unannotated
+210978,252_38,Unannotated
+210979,253_38,Unannotated
+210980,254_38,Unannotated
+210981,255_38,Unannotated
+210982,256_38,Unannotated
+210983,257_38,Unannotated
+210984,258_38,Unannotated
+210985,259_38,Lymphoma
+210986,260_38,Lymphoma
+210987,261_38,Unannotated
+210988,262_38,Unannotated
+210989,263_38,Unannotated
+210990,264_38,Lymphoma
+210991,265_38,Lymphoma
+210992,266_38,Lymphoma
+210993,267_38,Unannotated
+210994,268_38,Unannotated
+210995,269_38,Unannotated
+210996,270_38,Unannotated
+210997,271_38,Unannotated
+210998,272_38,Unannotated
+210999,273_38,Unannotated
+211000,274_38,Lymphoma
+211001,275_38,Lymphoma
+211002,276_38,Lymphoma
+211003,277_38,Unannotated
+211004,278_38,Unannotated
+211005,279_38,Unannotated
+211006,280_38,Unannotated
+211007,281_38,Unannotated
+211008,282_38,Unannotated
+211009,283_38,Unannotated
+211010,284_38,Unannotated
+211011,285_38,Unannotated
+211012,286_38,Unannotated
+211013,287_38,Unannotated
+211014,288_38,Unannotated
+211015,289_38,Unannotated
+211016,290_38,Unannotated
+211017,291_38,Unannotated
+211018,292_38,Unannotated
+211019,293_38,Unannotated
+211020,294_38,Unannotated
+211021,295_38,Unannotated
+211022,296_38,Unannotated
+211023,297_38,Unannotated
+211024,298_38,Unannotated
+211025,299_38,Unannotated
+211026,300_38,Lymphoma
+211027,301_38,Lymphoma
+211028,302_38,Unannotated
+211029,303_38,Unannotated
+211030,304_38,Unannotated
+211031,305_38,Broad normal dermis
+211032,306_38,Broad normal dermis
+211033,307_38,Broad normal dermis
+211034,308_38,Broad normal dermis
+211035,309_38,Broad normal dermis
+211036,310_38,Broad normal dermis
+211037,311_38,Broad normal dermis
+211038,312_38,Broad normal dermis
+211039,313_38,Broad normal dermis
+211040,314_38,Broad normal dermis
+211041,315_38,Unannotated
+211042,316_38,Unannotated
+211043,317_38,Unannotated
+211044,318_38,Unannotated
+211045,319_38,Unannotated
+211046,320_38,Unannotated
+211047,249_39,Unannotated
+211048,250_39,Unannotated
+211049,251_39,Unannotated
+211050,252_39,Unannotated
+211051,253_39,Unannotated
+211052,254_39,Unannotated
+211053,255_39,Unannotated
+211054,256_39,Unannotated
+211055,257_39,Unannotated
+211056,258_39,Lymphoma
+211057,259_39,Lymphoma
+211058,260_39,Lymphoma
+211059,261_39,Unannotated
+211060,262_39,Lymphoma
+211061,263_39,Lymphoma
+211062,264_39,Lymphoma
+211063,265_39,Lymphoma
+211064,266_39,Lymphoma
+211065,267_39,Unannotated
+211066,268_39,Unannotated
+211067,269_39,Unannotated
+211068,270_39,Folliculotropism
+211069,271_39,Folliculotropism
+211070,272_39,Folliculotropism
+211071,273_39,Lymphoma
+211072,274_39,Lymphoma
+211073,275_39,Lymphoma
+211074,276_39,Lymphoma
+211075,277_39,Lymphoma
+211076,278_39,Lymphoma
+211077,279_39,Lymphoma
+211078,280_39,Lymphoma
+211079,281_39,Lymphoma
+211080,282_39,Lymphoma
+211081,283_39,Lymphoma
+211082,284_39,Lymphoma
+211083,285_39,Unannotated
+211084,286_39,Unannotated
+211085,287_39,Unannotated
+211086,288_39,Unannotated
+211087,289_39,Unannotated
+211088,290_39,Lymphoma
+211089,291_39,Lymphoma
+211090,292_39,Lymphoma
+211091,293_39,Unannotated
+211092,294_39,Unannotated
+211093,295_39,Unannotated
+211094,296_39,Unannotated
+211095,297_39,Unannotated
+211096,298_39,Unannotated
+211097,299_39,Lymphoma
+211098,300_39,Lymphoma
+211099,301_39,Lymphoma
+211100,302_39,Lymphoma
+211101,303_39,Unannotated
+211102,304_39,Unannotated
+211103,305_39,Broad normal dermis
+211104,306_39,Broad normal dermis
+211105,307_39,Broad normal dermis
+211106,308_39,Broad normal dermis
+211107,309_39,Broad normal dermis
+211108,310_39,Broad normal dermis
+211109,311_39,Broad normal dermis
+211110,312_39,Broad normal dermis
+211111,313_39,Broad normal dermis
+211112,314_39,Broad normal dermis
+211113,315_39,Unannotated
+211114,316_39,Unannotated
+211115,317_39,Unannotated
+211116,318_39,Unannotated
+211117,248_40,Lymphoma
+211118,249_40,Lymphoma
+211119,250_40,Lymphoma
+211120,251_40,Lymphoma
+211121,252_40,Lymphoma
+211122,253_40,Lymphoma
+211123,254_40,Lymphoma
+211124,255_40,Lymphoma
+211125,256_40,Unannotated
+211126,257_40,Unannotated
+211127,258_40,Lymphoma
+211128,259_40,Lymphoma
+211129,260_40,Lymphoma
+211130,261_40,Lymphoma
+211131,262_40,Unannotated
+211132,263_40,Unannotated
+211133,264_40,Unannotated
+211134,265_40,Lymphoma
+211135,266_40,Lymphoma
+211136,267_40,Lymphoma
+211137,268_40,Lymphoma
+211138,269_40,Unannotated
+211139,270_40,Unannotated
+211140,271_40,Folliculotropism
+211141,272_40,Folliculotropism
+211142,273_40,Unannotated
+211143,274_40,Lymphoma
+211144,275_40,Lymphoma
+211145,276_40,Lymphoma
+211146,277_40,Unannotated
+211147,278_40,Unannotated
+211148,279_40,Lymphoma
+211149,280_40,Lymphoma
+211150,281_40,Lymphoma
+211151,282_40,Unannotated
+211152,283_40,Unannotated
+211153,284_40,Unannotated
+211154,285_40,Unannotated
+211155,286_40,Unannotated
+211156,287_40,Unannotated
+211157,288_40,Unannotated
+211158,289_40,Unannotated
+211159,290_40,Lymphoma
+211160,291_40,Lymphoma
+211161,292_40,Lymphoma
+211162,293_40,Unannotated
+211163,294_40,Unannotated
+211164,295_40,Unannotated
+211165,296_40,Unannotated
+211166,297_40,Unannotated
+211167,298_40,Unannotated
+211168,299_40,Lymphoma
+211169,300_40,Lymphoma
+211170,301_40,Lymphoma
+211171,302_40,Lymphoma
+211172,303_40,Unannotated
+211173,304_40,Unannotated
+211174,305_40,Broad normal dermis
+211175,306_40,Broad normal dermis
+211176,307_40,Broad normal dermis
+211177,308_40,Broad normal dermis
+211178,309_40,Broad normal dermis
+211179,310_40,Broad normal dermis
+211180,311_40,Broad normal dermis
+211181,312_40,Broad normal dermis
+211182,313_40,Broad normal dermis
+211183,314_40,Unannotated
+211184,315_40,Unannotated
+211185,316_40,Unannotated
+211186,317_40,Unannotated
+211187,318_40,Unannotated
+211188,247_41,Unannotated
+211189,248_41,Unannotated
+211190,249_41,Lymphoma
+211191,250_41,Lymphoma
+211192,251_41,Lymphoma
+211193,252_41,Lymphoma
+211194,253_41,Lymphoma
+211195,254_41,Lymphoma
+211196,255_41,Lymphoma
+211197,256_41,Unannotated
+211198,257_41,Lymphoma
+211199,258_41,Lymphoma
+211200,259_41,Lymphoma
+211201,260_41,Lymphoma
+211202,261_41,Lymphoma
+211203,262_41,Unannotated
+211204,263_41,Unannotated
+211205,264_41,Lymphoma
+211206,265_41,Lymphoma
+211207,266_41,Lymphoma
+211208,267_41,Lymphoma
+211209,268_41,Lymphoma
+211210,269_41,Lymphoma
+211211,270_41,Unannotated
+211212,271_41,Folliculotropism
+211213,272_41,Folliculotropism
+211214,273_41,Unannotated
+211215,274_41,Unannotated
+211216,275_41,Unannotated
+211217,276_41,Unannotated
+211218,277_41,Unannotated
+211219,278_41,Unannotated
+211220,279_41,Unannotated
+211221,280_41,Lymphoma
+211222,281_41,Lymphoma
+211223,282_41,Unannotated
+211224,283_41,Unannotated
+211225,284_41,Unannotated
+211226,285_41,Unannotated
+211227,286_41,Unannotated
+211228,287_41,Unannotated
+211229,288_41,Unannotated
+211230,289_41,Unannotated
+211231,290_41,Unannotated
+211232,291_41,Lymphoma
+211233,292_41,Lymphoma
+211234,293_41,Unannotated
+211235,294_41,Unannotated
+211236,295_41,Unannotated
+211237,296_41,Unannotated
+211238,297_41,Unannotated
+211239,298_41,Unannotated
+211240,299_41,Lymphoma
+211241,300_41,Lymphoma
+211242,301_41,Lymphoma
+211243,302_41,Lymphoma
+211244,303_41,Lymphoma
+211245,304_41,Unannotated
+211246,305_41,Broad normal dermis
+211247,306_41,Broad normal dermis
+211248,307_41,Broad normal dermis
+211249,308_41,Broad normal dermis
+211250,309_41,Broad normal dermis
+211251,310_41,Broad normal dermis
+211252,311_41,Broad normal dermis
+211253,312_41,Broad normal dermis
+211254,313_41,Broad normal dermis
+211255,314_41,Unannotated
+211256,315_41,Unannotated
+211257,316_41,Unannotated
+211258,317_41,Unannotated
+211259,318_41,Unannotated
+211260,247_42,Unannotated
+211261,248_42,Unannotated
+211262,249_42,Unannotated
+211263,250_42,Lymphoma
+211264,251_42,Lymphoma
+211265,252_42,Lymphoma
+211266,253_42,Lymphoma
+211267,254_42,Lymphoma
+211268,255_42,Lymphoma
+211269,256_42,Unannotated
+211270,257_42,Lymphoma
+211271,258_42,Lymphoma
+211272,259_42,Lymphoma
+211273,260_42,Lymphoma
+211274,261_42,Unannotated
+211275,262_42,Lymphoma
+211276,263_42,Lymphoma
+211277,264_42,Lymphoma
+211278,265_42,Lymphoma
+211279,266_42,Unannotated
+211280,267_42,Lymphoma
+211281,268_42,Lymphoma
+211282,269_42,Lymphoma
+211283,270_42,Unannotated
+211284,271_42,Folliculotropism
+211285,272_42,Unannotated
+211286,273_42,Unannotated
+211287,274_42,Lymphoma
+211288,275_42,Lymphoma
+211289,276_42,Lymphoma
+211290,277_42,Unannotated
+211291,278_42,Lymphoma
+211292,279_42,Lymphoma
+211293,280_42,Unannotated
+211294,281_42,Unannotated
+211295,282_42,Unannotated
+211296,283_42,Unannotated
+211297,284_42,Unannotated
+211298,285_42,Unannotated
+211299,286_42,Unannotated
+211300,287_42,Unannotated
+211301,288_42,Unannotated
+211302,289_42,Unannotated
+211303,290_42,Unannotated
+211304,291_42,Unannotated
+211305,292_42,Unannotated
+211306,293_42,Unannotated
+211307,294_42,Unannotated
+211308,295_42,Unannotated
+211309,296_42,Unannotated
+211310,297_42,Lymphoma
+211311,298_42,Lymphoma
+211312,299_42,Lymphoma
+211313,300_42,Lymphoma
+211314,301_42,Lymphoma
+211315,302_42,Lymphoma
+211316,303_42,Lymphoma
+211317,304_42,Unannotated
+211318,305_42,Unannotated
+211319,306_42,Broad normal dermis
+211320,307_42,Broad normal dermis
+211321,308_42,Broad normal dermis
+211322,309_42,Broad normal dermis
+211323,310_42,Broad normal dermis
+211324,311_42,Broad normal dermis
+211325,312_42,Broad normal dermis
+211326,313_42,Broad normal dermis
+211327,314_42,Unannotated
+211328,315_42,Unannotated
+211329,316_42,Unannotated
+211330,317_42,Unannotated
+211331,318_42,Eccrine
+211332,319_42,Eccrine
+211333,320_42,Eccrine
+211334,245_43,Unannotated
+211335,250_43,Unannotated
+211336,251_43,Unannotated
+211337,252_43,Unannotated
+211338,253_43,Lymphoma
+211339,254_43,Lymphoma
+211340,255_43,Unannotated
+211341,256_43,Lymphoma
+211342,257_43,Lymphoma
+211343,258_43,Lymphoma
+211344,259_43,Lymphoma
+211345,260_43,Lymphoma
+211346,261_43,Unannotated
+211347,262_43,Lymphoma
+211348,263_43,Lymphoma
+211349,264_43,Lymphoma
+211350,265_43,Lymphoma
+211351,266_43,Unannotated
+211352,267_43,Lymphoma
+211353,268_43,Lymphoma
+211354,269_43,Lymphoma
+211355,270_43,Lymphoma
+211356,271_43,Unannotated
+211357,272_43,Unannotated
+211358,273_43,Lymphoma
+211359,274_43,Lymphoma
+211360,275_43,Lymphoma
+211361,276_43,Unannotated
+211362,277_43,Unannotated
+211363,278_43,Unannotated
+211364,279_43,Unannotated
+211365,280_43,Unannotated
+211366,281_43,Unannotated
+211367,282_43,Unannotated
+211368,283_43,Unannotated
+211369,284_43,Unannotated
+211370,285_43,Lymphoma
+211371,286_43,Lymphoma
+211372,287_43,Lymphoma
+211373,288_43,Lymphoma
+211374,289_43,Lymphoma
+211375,290_43,Lymphoma
+211376,291_43,Lymphoma
+211377,292_43,Unannotated
+211378,293_43,Unannotated
+211379,294_43,Unannotated
+211380,295_43,Unannotated
+211381,296_43,Lymphoma
+211382,297_43,Lymphoma
+211383,298_43,Lymphoma
+211384,299_43,Lymphoma
+211385,300_43,Lymphoma
+211386,301_43,Lymphoma
+211387,302_43,Lymphoma
+211388,303_43,Unannotated
+211389,304_43,Unannotated
+211390,305_43,Unannotated
+211391,306_43,Broad normal dermis
+211392,307_43,Broad normal dermis
+211393,308_43,Broad normal dermis
+211394,309_43,Broad normal dermis
+211395,310_43,Broad normal dermis
+211396,311_43,Broad normal dermis
+211397,312_43,Broad normal dermis
+211398,313_43,Unannotated
+211399,314_43,Unannotated
+211400,315_43,Unannotated
+211401,316_43,Unannotated
+211402,317_43,Unannotated
+211403,318_43,Eccrine
+211404,319_43,Eccrine
+211405,320_43,Eccrine
+211406,245_44,Unannotated
+211407,246_44,Unannotated
+211408,247_44,Unannotated
+211409,251_44,Unannotated
+211410,252_44,Unannotated
+211411,253_44,Lymphoma
+211412,254_44,Lymphoma
+211413,255_44,Lymphoma
+211414,256_44,Lymphoma
+211415,257_44,Lymphoma
+211416,258_44,Lymphoma
+211417,259_44,Lymphoma
+211418,260_44,Unannotated
+211419,261_44,Unannotated
+211420,262_44,Lymphoma
+211421,263_44,Lymphoma
+211422,264_44,Lymphoma
+211423,265_44,Lymphoma
+211424,266_44,Lymphoma
+211425,267_44,Unannotated
+211426,268_44,Lymphoma
+211427,269_44,Lymphoma
+211428,270_44,Lymphoma
+211429,271_44,Unannotated
+211430,272_44,Unannotated
+211431,273_44,Unannotated
+211432,274_44,Lymphoma
+211433,275_44,Lymphoma
+211434,276_44,Lymphoma
+211435,277_44,Lymphoma
+211436,278_44,Lymphoma
+211437,279_44,Unannotated
+211438,280_44,Unannotated
+211439,281_44,Unannotated
+211440,282_44,Unannotated
+211441,283_44,Lymphoma
+211442,284_44,Lymphoma
+211443,285_44,Lymphoma
+211444,286_44,Lymphoma
+211445,287_44,Lymphoma
+211446,288_44,Lymphoma
+211447,289_44,Lymphoma
+211448,290_44,Lymphoma
+211449,291_44,Lymphoma
+211450,292_44,Unannotated
+211451,293_44,Unannotated
+211452,294_44,Unannotated
+211453,295_44,Lymphoma
+211454,296_44,Lymphoma
+211455,297_44,Lymphoma
+211456,298_44,Lymphoma
+211457,299_44,Lymphoma
+211458,300_44,Lymphoma
+211459,301_44,Lymphoma
+211460,302_44,Unannotated
+211461,303_44,Unannotated
+211462,304_44,Unannotated
+211463,305_44,Unannotated
+211464,306_44,Broad normal dermis
+211465,307_44,Broad normal dermis
+211466,308_44,Broad normal dermis
+211467,309_44,Broad normal dermis
+211468,310_44,Broad normal dermis
+211469,311_44,Broad normal dermis
+211470,312_44,Broad normal dermis
+211471,313_44,Unannotated
+211472,314_44,Unannotated
+211473,315_44,Unannotated
+211474,316_44,Unannotated
+211475,317_44,Unannotated
+211476,318_44,Unannotated
+211477,319_44,Eccrine
+211478,320_44,Eccrine
+211479,247_45,Unannotated
+211480,248_45,Unannotated
+211481,251_45,Unannotated
+211482,252_45,Unannotated
+211483,253_45,Unannotated
+211484,254_45,Lymphoma
+211485,255_45,Lymphoma
+211486,256_45,Lymphoma
+211487,257_45,Unannotated
+211488,258_45,Lymphoma
+211489,259_45,Lymphoma
+211490,260_45,Unannotated
+211491,261_45,Unannotated
+211492,262_45,Lymphoma
+211493,263_45,Lymphoma
+211494,264_45,Lymphoma
+211495,265_45,Lymphoma
+211496,266_45,Lymphoma
+211497,267_45,Unannotated
+211498,268_45,Lymphoma
+211499,269_45,Lymphoma
+211500,270_45,Unannotated
+211501,271_45,Lymphoma
+211502,272_45,Lymphoma
+211503,273_45,Lymphoma
+211504,274_45,Lymphoma
+211505,275_45,Lymphoma
+211506,276_45,Lymphoma
+211507,277_45,Lymphoma
+211508,278_45,Lymphoma
+211509,279_45,Lymphoma
+211510,280_45,Unannotated
+211511,281_45,Unannotated
+211512,282_45,Unannotated
+211513,283_45,Lymphoma
+211514,284_45,Lymphoma
+211515,285_45,Lymphoma
+211516,286_45,Lymphoma
+211517,287_45,Lymphoma
+211518,288_45,Lymphoma
+211519,289_45,Lymphoma
+211520,290_45,Lymphoma
+211521,291_45,Lymphoma
+211522,292_45,Unannotated
+211523,293_45,Unannotated
+211524,294_45,Unannotated
+211525,295_45,Lymphoma
+211526,296_45,Lymphoma
+211527,297_45,Lymphoma
+211528,298_45,Lymphoma
+211529,299_45,Lymphoma
+211530,300_45,Lymphoma
+211531,301_45,Unannotated
+211532,302_45,Unannotated
+211533,303_45,Unannotated
+211534,304_45,Unannotated
+211535,305_45,Unannotated
+211536,306_45,Unannotated
+211537,307_45,Broad normal dermis
+211538,308_45,Broad normal dermis
+211539,309_45,Broad normal dermis
+211540,310_45,Broad normal dermis
+211541,311_45,Broad normal dermis
+211542,312_45,Broad normal dermis
+211543,313_45,Broad normal dermis
+211544,314_45,Unannotated
+211545,315_45,Unannotated
+211546,316_45,Unannotated
+211547,317_45,Unannotated
+211548,318_45,Unannotated
+211549,319_45,Eccrine
+211550,320_45,Eccrine
+211551,252_46,Unannotated
+211552,253_46,Unannotated
+211553,254_46,Unannotated
+211554,255_46,Unannotated
+211555,256_46,Unannotated
+211556,257_46,Unannotated
+211557,258_46,Lymphoma
+211558,259_46,Lymphoma
+211559,260_46,Unannotated
+211560,261_46,Unannotated
+211561,262_46,Unannotated
+211562,263_46,Unannotated
+211563,264_46,Lymphoma
+211564,265_46,Lymphoma
+211565,266_46,Lymphoma
+211566,267_46,Lymphoma
+211567,268_46,Unannotated
+211568,269_46,Lymphoma
+211569,270_46,Lymphoma
+211570,271_46,Lymphoma
+211571,272_46,Lymphoma
+211572,273_46,Lymphoma
+211573,274_46,Lymphoma
+211574,275_46,Lymphoma
+211575,276_46,Lymphoma
+211576,277_46,Lymphoma
+211577,278_46,Lymphoma
+211578,279_46,Lymphoma
+211579,280_46,Unannotated
+211580,281_46,Unannotated
+211581,282_46,Unannotated
+211582,283_46,Lymphoma
+211583,284_46,Lymphoma
+211584,285_46,Lymphoma
+211585,286_46,Lymphoma
+211586,287_46,Lymphoma
+211587,288_46,Lymphoma
+211588,289_46,Lymphoma
+211589,290_46,Lymphoma
+211590,291_46,Lymphoma
+211591,292_46,Unannotated
+211592,293_46,Unannotated
+211593,294_46,Lymphoma
+211594,295_46,Lymphoma
+211595,296_46,Lymphoma
+211596,297_46,Lymphoma
+211597,298_46,Lymphoma
+211598,299_46,Lymphoma
+211599,300_46,Unannotated
+211600,301_46,Unannotated
+211601,302_46,Unannotated
+211602,303_46,Unannotated
+211603,304_46,Unannotated
+211604,305_46,Unannotated
+211605,306_46,Unannotated
+211606,307_46,Broad normal dermis
+211607,308_46,Broad normal dermis
+211608,309_46,Broad normal dermis
+211609,310_46,Broad normal dermis
+211610,311_46,Broad normal dermis
+211611,312_46,Broad normal dermis
+211612,313_46,Broad normal dermis
+211613,314_46,Unannotated
+211614,315_46,Unannotated
+211615,316_46,Unannotated
+211616,317_46,Unannotated
+211617,320_46,Unannotated
+211618,254_47,Unannotated
+211619,255_47,Unannotated
+211620,256_47,Unannotated
+211621,257_47,Unannotated
+211622,258_47,Lymphoma
+211623,259_47,Lymphoma
+211624,260_47,Unannotated
+211625,261_47,Lymphoma
+211626,262_47,Unannotated
+211627,263_47,Lymphoma
+211628,264_47,Lymphoma
+211629,265_47,Lymphoma
+211630,266_47,Lymphoma
+211631,267_47,Unannotated
+211632,268_47,Unannotated
+211633,269_47,Lymphoma
+211634,270_47,Lymphoma
+211635,271_47,Lymphoma
+211636,272_47,Lymphoma
+211637,273_47,Lymphoma
+211638,274_47,Lymphoma
+211639,275_47,Lymphoma
+211640,276_47,Lymphoma
+211641,277_47,Lymphoma
+211642,278_47,Lymphoma
+211643,279_47,Lymphoma
+211644,280_47,Unannotated
+211645,281_47,Unannotated
+211646,282_47,Unannotated
+211647,283_47,Unannotated
+211648,284_47,Unannotated
+211649,285_47,Lymphoma
+211650,286_47,Lymphoma
+211651,287_47,Lymphoma
+211652,288_47,Lymphoma
+211653,289_47,Lymphoma
+211654,290_47,Lymphoma
+211655,291_47,Lymphoma
+211656,292_47,Unannotated
+211657,293_47,Lymphoma
+211658,294_47,Lymphoma
+211659,295_47,Lymphoma
+211660,296_47,Lymphoma
+211661,297_47,Lymphoma
+211662,298_47,Unannotated
+211663,299_47,Unannotated
+211664,300_47,Unannotated
+211665,301_47,Unannotated
+211666,302_47,Unannotated
+211667,303_47,Unannotated
+211668,304_47,Unannotated
+211669,305_47,Unannotated
+211670,306_47,Unannotated
+211671,307_47,Unannotated
+211672,308_47,Broad normal dermis
+211673,309_47,Broad normal dermis
+211674,310_47,Broad normal dermis
+211675,311_47,Broad normal dermis
+211676,312_47,Broad normal dermis
+211677,313_47,Broad normal dermis
+211678,314_47,Unannotated
+211679,315_47,Unannotated
+211680,316_47,Unannotated
+211681,317_47,Unannotated
+211682,252_48,Unannotated
+211683,253_48,Unannotated
+211684,254_48,Unannotated
+211685,255_48,Unannotated
+211686,256_48,Unannotated
+211687,257_48,Unannotated
+211688,258_48,Lymphoma
+211689,259_48,Lymphoma
+211690,260_48,Lymphoma
+211691,261_48,Lymphoma
+211692,262_48,Unannotated
+211693,263_48,Unannotated
+211694,264_48,Lymphoma
+211695,265_48,Lymphoma
+211696,266_48,Lymphoma
+211697,267_48,Unannotated
+211698,268_48,Unannotated
+211699,269_48,Unannotated
+211700,270_48,Lymphoma
+211701,271_48,Lymphoma
+211702,272_48,Lymphoma
+211703,273_48,Lymphoma
+211704,274_48,Lymphoma
+211705,275_48,Lymphoma
+211706,276_48,Lymphoma
+211707,277_48,Lymphoma
+211708,278_48,Lymphoma
+211709,279_48,Lymphoma
+211710,280_48,Unannotated
+211711,281_48,Unannotated
+211712,282_48,Unannotated
+211713,283_48,Lymphoma
+211714,284_48,Lymphoma
+211715,285_48,Lymphoma
+211716,286_48,Lymphoma
+211717,287_48,Unannotated
+211718,288_48,Lymphoma
+211719,289_48,Lymphoma
+211720,290_48,Lymphoma
+211721,291_48,Unannotated
+211722,292_48,Unannotated
+211723,293_48,Lymphoma
+211724,294_48,Lymphoma
+211725,295_48,Lymphoma
+211726,296_48,Unannotated
+211727,297_48,Unannotated
+211728,298_48,Unannotated
+211729,299_48,Unannotated
+211730,300_48,Unannotated
+211731,301_48,Unannotated
+211732,302_48,Unannotated
+211733,303_48,Unannotated
+211734,304_48,Unannotated
+211735,305_48,Unannotated
+211736,306_48,Unannotated
+211737,307_48,Unannotated
+211738,308_48,Broad normal dermis
+211739,309_48,Broad normal dermis
+211740,310_48,Broad normal dermis
+211741,311_48,Unannotated
+211742,312_48,Broad normal dermis
+211743,313_48,Broad normal dermis
+211744,314_48,Broad normal dermis
+211745,315_48,Unannotated
+211746,316_48,Unannotated
+211747,317_48,Unannotated
+211748,251_49,Unannotated
+211749,252_49,Unannotated
+211750,253_49,Unannotated
+211751,256_49,Unannotated
+211752,257_49,Unannotated
+211753,258_49,Unannotated
+211754,259_49,Lymphoma
+211755,260_49,Lymphoma
+211756,261_49,Lymphoma
+211757,262_49,Lymphoma
+211758,263_49,Unannotated
+211759,264_49,Unannotated
+211760,265_49,Unannotated
+211761,266_49,Unannotated
+211762,267_49,Unannotated
+211763,268_49,Unannotated
+211764,269_49,Lymphoma
+211765,270_49,Unannotated
+211766,271_49,Lymphoma
+211767,272_49,Lymphoma
+211768,273_49,Lymphoma
+211769,274_49,Lymphoma
+211770,275_49,Lymphoma
+211771,276_49,Lymphoma
+211772,277_49,Lymphoma
+211773,278_49,Lymphoma
+211774,279_49,Lymphoma
+211775,280_49,Unannotated
+211776,281_49,Unannotated
+211777,282_49,Unannotated
+211778,283_49,Lymphoma
+211779,284_49,Lymphoma
+211780,285_49,Lymphoma
+211781,286_49,Unannotated
+211782,287_49,Unannotated
+211783,288_49,Lymphoma
+211784,289_49,Unannotated
+211785,290_49,Unannotated
+211786,291_49,Unannotated
+211787,292_49,Unannotated
+211788,293_49,Unannotated
+211789,294_49,Lymphoma
+211790,295_49,Lymphoma
+211791,296_49,Lymphoma
+211792,297_49,Lymphoma
+211793,298_49,Lymphoma
+211794,299_49,Lymphoma
+211795,300_49,Unannotated
+211796,301_49,Unannotated
+211797,302_49,Unannotated
+211798,303_49,Unannotated
+211799,304_49,Unannotated
+211800,305_49,Unannotated
+211801,306_49,Unannotated
+211802,307_49,Unannotated
+211803,308_49,Broad normal dermis
+211804,309_49,Broad normal dermis
+211805,310_49,Unannotated
+211806,311_49,Broad normal dermis
+211807,312_49,Broad normal dermis
+211808,313_49,Broad normal dermis
+211809,314_49,Broad normal dermis
+211810,315_49,Unannotated
+211811,316_49,Unannotated
+211812,317_49,Unannotated
+211813,252_50,Unannotated
+211814,257_50,Unannotated
+211815,258_50,Unannotated
+211816,259_50,Lymphoma
+211817,260_50,Lymphoma
+211818,261_50,Epidermotropism
+211819,262_50,Unannotated
+211820,263_50,Unannotated
+211821,264_50,Unannotated
+211822,265_50,Unannotated
+211823,266_50,Unannotated
+211824,267_50,Unannotated
+211825,268_50,Lymphoma
+211826,269_50,Lymphoma
+211827,270_50,Lymphoma
+211828,271_50,Unannotated
+211829,272_50,Lymphoma
+211830,273_50,Lymphoma
+211831,274_50,Lymphoma
+211832,275_50,Lymphoma
+211833,276_50,Lymphoma
+211834,277_50,Lymphoma
+211835,278_50,Lymphoma
+211836,279_50,Lymphoma
+211837,280_50,Unannotated
+211838,281_50,Lymphoma
+211839,282_50,Lymphoma
+211840,283_50,Unannotated
+211841,284_50,Lymphoma
+211842,285_50,Unannotated
+211843,286_50,Unannotated
+211844,287_50,Unannotated
+211845,288_50,Unannotated
+211846,289_50,Lymphoma
+211847,290_50,Lymphoma
+211848,291_50,Lymphoma
+211849,292_50,Lymphoma
+211850,293_50,Lymphoma
+211851,294_50,Lymphoma
+211852,295_50,Lymphoma
+211853,296_50,Lymphoma
+211854,297_50,Lymphoma
+211855,298_50,Lymphoma
+211856,299_50,Unannotated
+211857,300_50,Unannotated
+211858,301_50,Unannotated
+211859,302_50,Unannotated
+211860,303_50,Unannotated
+211861,304_50,Unannotated
+211862,305_50,Unannotated
+211863,306_50,Unannotated
+211864,307_50,Unannotated
+211865,308_50,Unannotated
+211866,309_50,Unannotated
+211867,310_50,Unannotated
+211868,311_50,Unannotated
+211869,312_50,Unannotated
+211870,313_50,Unannotated
+211871,314_50,Unannotated
+211872,315_50,Unannotated
+211873,316_50,Unannotated
+211874,317_50,Unannotated
+211875,258_51,Unannotated
+211876,259_51,Epidermotropism
+211877,260_51,Epidermotropism
+211878,261_51,Unannotated
+211879,262_51,Unannotated
+211880,263_51,Unannotated
+211881,264_51,Unannotated
+211882,265_51,Unannotated
+211883,266_51,Unannotated
+211884,267_51,Lymphoma
+211885,268_51,Lymphoma
+211886,269_51,Lymphoma
+211887,270_51,Unannotated
+211888,271_51,Unannotated
+211889,272_51,Unannotated
+211890,273_51,Unannotated
+211891,274_51,Lymphoma
+211892,275_51,Lymphoma
+211893,276_51,Lymphoma
+211894,277_51,Lymphoma
+211895,278_51,Unannotated
+211896,279_51,Unannotated
+211897,280_51,Unannotated
+211898,281_51,Lymphoma
+211899,282_51,Lymphoma
+211900,283_51,Lymphoma
+211901,284_51,Unannotated
+211902,285_51,Unannotated
+211903,286_51,Lymphoma
+211904,287_51,Lymphoma
+211905,288_51,Lymphoma
+211906,289_51,Lymphoma
+211907,290_51,Lymphoma
+211908,291_51,Lymphoma
+211909,292_51,Lymphoma
+211910,293_51,Lymphoma
+211911,294_51,Lymphoma
+211912,295_51,Lymphoma
+211913,296_51,Lymphoma
+211914,297_51,Lymphoma
+211915,298_51,Unannotated
+211916,299_51,Lymphoma
+211917,300_51,Lymphoma
+211918,301_51,Unannotated
+211919,302_51,Unannotated
+211920,303_51,Unannotated
+211921,304_51,Unannotated
+211922,305_51,Unannotated
+211923,306_51,Unannotated
+211924,307_51,Unannotated
+211925,308_51,Unannotated
+211926,309_51,Broad normal dermis
+211927,310_51,Broad normal dermis
+211928,311_51,Broad normal dermis
+211929,312_51,Broad normal dermis
+211930,313_51,Broad normal dermis
+211931,314_51,Broad normal dermis
+211932,315_51,Unannotated
+211933,316_51,Unannotated
+211934,259_52,Unannotated
+211935,260_52,Unannotated
+211936,261_52,Unannotated
+211937,262_52,Unannotated
+211938,263_52,Epidermotropism
+211939,264_52,Unannotated
+211940,265_52,Unannotated
+211941,266_52,Unannotated
+211942,267_52,Lymphoma
+211943,268_52,Lymphoma
+211944,269_52,Unannotated
+211945,270_52,Unannotated
+211946,271_52,Lymphoma
+211947,272_52,Lymphoma
+211948,273_52,Lymphoma
+211949,274_52,Unannotated
+211950,275_52,Unannotated
+211951,276_52,Lymphoma
+211952,277_52,Unannotated
+211953,278_52,Unannotated
+211954,279_52,Unannotated
+211955,280_52,Lymphoma
+211956,281_52,Lymphoma
+211957,282_52,Lymphoma
+211958,283_52,Lymphoma
+211959,284_52,Unannotated
+211960,285_52,Lymphoma
+211961,286_52,Lymphoma
+211962,287_52,Lymphoma
+211963,288_52,Unannotated
+211964,289_52,Lymphoma
+211965,290_52,Lymphoma
+211966,291_52,Lymphoma
+211967,292_52,Lymphoma
+211968,293_52,Lymphoma
+211969,294_52,Lymphoma
+211970,295_52,Lymphoma
+211971,296_52,Unannotated
+211972,297_52,Unannotated
+211973,298_52,Lymphoma
+211974,299_52,Lymphoma
+211975,300_52,Lymphoma
+211976,301_52,Unannotated
+211977,302_52,Unannotated
+211978,303_52,Unannotated
+211979,304_52,Unannotated
+211980,305_52,Unannotated
+211981,306_52,Unannotated
+211982,307_52,Unannotated
+211983,308_52,Unannotated
+211984,309_52,Broad normal dermis
+211985,310_52,Broad normal dermis
+211986,311_52,Broad normal dermis
+211987,312_52,Broad normal dermis
+211988,313_52,Broad normal dermis
+211989,314_52,Broad normal dermis
+211990,315_52,Unannotated
+211991,316_52,Unannotated
+211992,261_53,Unannotated
+211993,262_53,Unannotated
+211994,263_53,Epidermotropism
+211995,264_53,Unannotated
+211996,265_53,Unannotated
+211997,266_53,Unannotated
+211998,267_53,Unannotated
+211999,268_53,Unannotated
+212000,269_53,Unannotated
+212001,270_53,Lymphoma
+212002,271_53,Lymphoma
+212003,272_53,Lymphoma
+212004,273_53,Lymphoma
+212005,274_53,Unannotated
+212006,275_53,Unannotated
+212007,276_53,Unannotated
+212008,277_53,Unannotated
+212009,278_53,Unannotated
+212010,279_53,Unannotated
+212011,280_53,Lymphoma
+212012,281_53,Lymphoma
+212013,282_53,Lymphoma
+212014,283_53,Lymphoma
+212015,284_53,Lymphoma
+212016,285_53,Lymphoma
+212017,286_53,Lymphoma
+212018,287_53,Unannotated
+212019,288_53,Unannotated
+212020,289_53,Lymphoma
+212021,290_53,Lymphoma
+212022,291_53,Lymphoma
+212023,292_53,Lymphoma
+212024,293_53,Lymphoma
+212025,294_53,Unannotated
+212026,295_53,Unannotated
+212027,296_53,Unannotated
+212028,297_53,Lymphoma
+212029,298_53,Lymphoma
+212030,299_53,Lymphoma
+212031,300_53,Lymphoma
+212032,301_53,Unannotated
+212033,302_53,Unannotated
+212034,303_53,Unannotated
+212035,304_53,Unannotated
+212036,305_53,Unannotated
+212037,306_53,Unannotated
+212038,307_53,Unannotated
+212039,308_53,Unannotated
+212040,309_53,Broad normal dermis
+212041,310_53,Broad normal dermis
+212042,311_53,Broad normal dermis
+212043,312_53,Broad normal dermis
+212044,313_53,Broad normal dermis
+212045,314_53,Broad normal dermis
+212046,315_53,Unannotated
+212047,316_53,Unannotated
+212048,317_53,Unannotated
+212049,262_54,Unannotated
+212050,263_54,Unannotated
+212051,264_54,Unannotated
+212052,265_54,Unannotated
+212053,266_54,Unannotated
+212054,267_54,Unannotated
+212055,268_54,Unannotated
+212056,269_54,Unannotated
+212057,270_54,Lymphoma
+212058,271_54,Lymphoma
+212059,272_54,Lymphoma
+212060,273_54,Lymphoma
+212061,274_54,Lymphoma
+212062,275_54,Unannotated
+212063,276_54,Unannotated
+212064,277_54,Unannotated
+212065,278_54,Unannotated
+212066,279_54,Unannotated
+212067,280_54,Unannotated
+212068,281_54,Lymphoma
+212069,282_54,Lymphoma
+212070,283_54,Lymphoma
+212071,284_54,Lymphoma
+212072,285_54,Lymphoma
+212073,286_54,Unannotated
+212074,287_54,Unannotated
+212075,288_54,Lymphoma
+212076,289_54,Lymphoma
+212077,290_54,Lymphoma
+212078,291_54,Lymphoma
+212079,292_54,Lymphoma
+212080,293_54,Unannotated
+212081,294_54,Unannotated
+212082,295_54,Lymphoma
+212083,296_54,Lymphoma
+212084,297_54,Lymphoma
+212085,298_54,Lymphoma
+212086,299_54,Lymphoma
+212087,300_54,Lymphoma
+212088,301_54,Unannotated
+212089,302_54,Unannotated
+212090,303_54,Unannotated
+212091,304_54,Unannotated
+212092,305_54,Unannotated
+212093,306_54,Unannotated
+212094,307_54,Unannotated
+212095,308_54,Unannotated
+212096,309_54,Broad normal dermis
+212097,310_54,Broad normal dermis
+212098,311_54,Broad normal dermis
+212099,312_54,Broad normal dermis
+212100,313_54,Broad normal dermis
+212101,314_54,Broad normal dermis
+212102,315_54,Unannotated
+212103,316_54,Unannotated
+212104,317_54,Unannotated
+212105,263_55,Unannotated
+212106,264_55,Unannotated
+212107,265_55,Unannotated
+212108,266_55,Unannotated
+212109,267_55,Unannotated
+212110,268_55,Unannotated
+212111,269_55,Unannotated
+212112,270_55,Unannotated
+212113,271_55,Lymphoma
+212114,272_55,Lymphoma
+212115,273_55,Lymphoma
+212116,274_55,Lymphoma
+212117,275_55,Unannotated
+212118,276_55,Unannotated
+212119,277_55,Unannotated
+212120,278_55,Unannotated
+212121,279_55,Unannotated
+212122,280_55,Unannotated
+212123,281_55,Lymphoma
+212124,282_55,Lymphoma
+212125,283_55,Lymphoma
+212126,284_55,Lymphoma
+212127,285_55,Lymphoma
+212128,286_55,Lymphoma
+212129,287_55,Lymphoma
+212130,288_55,Lymphoma
+212131,289_55,Lymphoma
+212132,290_55,Lymphoma
+212133,291_55,Unannotated
+212134,292_55,Unannotated
+212135,293_55,Lymphoma
+212136,294_55,Lymphoma
+212137,295_55,Lymphoma
+212138,296_55,Lymphoma
+212139,297_55,Lymphoma
+212140,298_55,Unannotated
+212141,299_55,Lymphoma
+212142,300_55,Unannotated
+212143,301_55,Unannotated
+212144,302_55,Unannotated
+212145,303_55,Unannotated
+212146,304_55,Unannotated
+212147,305_55,Unannotated
+212148,306_55,Unannotated
+212149,307_55,Unannotated
+212150,308_55,Unannotated
+212151,309_55,Broad normal dermis
+212152,310_55,Broad normal dermis
+212153,311_55,Broad normal dermis
+212154,312_55,Broad normal dermis
+212155,313_55,Broad normal dermis
+212156,314_55,Broad normal dermis
+212157,315_55,Unannotated
+212158,316_55,Unannotated
+212159,264_56,Unannotated
+212160,265_56,Unannotated
+212161,266_56,Unannotated
+212162,267_56,Unannotated
+212163,268_56,Unannotated
+212164,269_56,Lymphoma
+212165,270_56,Lymphoma
+212166,271_56,Lymphoma
+212167,272_56,Lymphoma
+212168,273_56,Lymphoma
+212169,274_56,Unannotated
+212170,275_56,Unannotated
+212171,276_56,Unannotated
+212172,277_56,Unannotated
+212173,278_56,Unannotated
+212174,279_56,Unannotated
+212175,280_56,Unannotated
+212176,281_56,Lymphoma
+212177,282_56,Lymphoma
+212178,283_56,Lymphoma
+212179,284_56,Lymphoma
+212180,285_56,Lymphoma
+212181,286_56,Lymphoma
+212182,287_56,Lymphoma
+212183,288_56,Lymphoma
+212184,289_56,Lymphoma
+212185,290_56,Unannotated
+212186,291_56,Unannotated
+212187,292_56,Unannotated
+212188,293_56,Lymphoma
+212189,294_56,Lymphoma
+212190,295_56,Lymphoma
+212191,296_56,Lymphoma
+212192,297_56,Unannotated
+212193,298_56,Unannotated
+212194,299_56,Unannotated
+212195,300_56,Unannotated
+212196,301_56,Unannotated
+212197,302_56,Unannotated
+212198,303_56,Unannotated
+212199,304_56,Unannotated
+212200,305_56,Unannotated
+212201,306_56,Unannotated
+212202,307_56,Unannotated
+212203,308_56,Unannotated
+212204,309_56,Broad normal dermis
+212205,310_56,Broad normal dermis
+212206,311_56,Broad normal dermis
+212207,312_56,Broad normal dermis
+212208,313_56,Broad normal dermis
+212209,314_56,Broad normal dermis
+212210,316_56,Unannotated
+212211,265_57,Unannotated
+212212,266_57,Unannotated
+212213,267_57,Unannotated
+212214,268_57,Unannotated
+212215,269_57,Epidermotropism
+212216,270_57,Unannotated
+212217,271_57,Lymphoma
+212218,272_57,Lymphoma
+212219,273_57,Unannotated
+212220,274_57,Unannotated
+212221,275_57,Unannotated
+212222,276_57,Unannotated
+212223,277_57,Unannotated
+212224,278_57,Unannotated
+212225,279_57,Lymphoma
+212226,280_57,Lymphoma
+212227,281_57,Lymphoma
+212228,282_57,Lymphoma
+212229,283_57,Lymphoma
+212230,284_57,Lymphoma
+212231,285_57,Lymphoma
+212232,286_57,Lymphoma
+212233,287_57,Lymphoma
+212234,288_57,Lymphoma
+212235,289_57,Unannotated
+212236,290_57,Unannotated
+212237,291_57,Unannotated
+212238,292_57,Unannotated
+212239,293_57,Lymphoma
+212240,294_57,Lymphoma
+212241,295_57,Lymphoma
+212242,296_57,Unannotated
+212243,297_57,Unannotated
+212244,298_57,Unannotated
+212245,299_57,Unannotated
+212246,300_57,Unannotated
+212247,301_57,Unannotated
+212248,302_57,Unannotated
+212249,303_57,Unannotated
+212250,304_57,Unannotated
+212251,305_57,Unannotated
+212252,306_57,Unannotated
+212253,307_57,Unannotated
+212254,308_57,Unannotated
+212255,309_57,Unannotated
+212256,310_57,Unannotated
+212257,311_57,Unannotated
+212258,312_57,Unannotated
+212259,313_57,Unannotated
+212260,314_57,Unannotated
+212261,266_58,Unannotated
+212262,267_58,Unannotated
+212263,268_58,Unannotated
+212264,269_58,Epidermotropism
+212265,270_58,Epidermotropism
+212266,271_58,Unannotated
+212267,272_58,Unannotated
+212268,273_58,Unannotated
+212269,274_58,Unannotated
+212270,275_58,Unannotated
+212271,276_58,Unannotated
+212272,277_58,Unannotated
+212273,278_58,Unannotated
+212274,279_58,Lymphoma
+212275,280_58,Lymphoma
+212276,281_58,Lymphoma
+212277,282_58,Lymphoma
+212278,283_58,Lymphoma
+212279,284_58,Lymphoma
+212280,285_58,Lymphoma
+212281,286_58,Lymphoma
+212282,287_58,Unannotated
+212283,288_58,Lymphoma
+212284,289_58,Lymphoma
+212285,290_58,Lymphoma
+212286,291_58,Lymphoma
+212287,292_58,Lymphoma
+212288,293_58,Lymphoma
+212289,294_58,Lymphoma
+212290,295_58,Unannotated
+212291,296_58,Unannotated
+212292,297_58,Unannotated
+212293,298_58,Unannotated
+212294,299_58,Unannotated
+212295,300_58,Unannotated
+212296,301_58,Unannotated
+212297,302_58,Unannotated
+212298,303_58,Unannotated
+212299,304_58,Unannotated
+212300,305_58,Unannotated
+212301,306_58,Unannotated
+212302,307_58,Unannotated
+212303,308_58,Unannotated
+212304,309_58,Unannotated
+212305,310_58,Unannotated
+212306,311_58,Unannotated
+212307,312_58,Unannotated
+212308,313_58,Unannotated
+212309,314_58,Unannotated
+212310,267_59,Unannotated
+212311,268_59,Unannotated
+212312,269_59,Unannotated
+212313,270_59,Unannotated
+212314,271_59,Unannotated
+212315,272_59,Unannotated
+212316,273_59,Unannotated
+212317,274_59,Unannotated
+212318,275_59,Unannotated
+212319,276_59,Unannotated
+212320,277_59,Unannotated
+212321,278_59,Unannotated
+212322,279_59,Lymphoma
+212323,280_59,Lymphoma
+212324,281_59,Lymphoma
+212325,282_59,Lymphoma
+212326,283_59,Lymphoma
+212327,284_59,Lymphoma
+212328,285_59,Lymphoma
+212329,286_59,Unannotated
+212330,287_59,Unannotated
+212331,288_59,Unannotated
+212332,289_59,Lymphoma
+212333,290_59,Lymphoma
+212334,291_59,Lymphoma
+212335,292_59,Lymphoma
+212336,293_59,Unannotated
+212337,294_59,Unannotated
+212338,295_59,Lymphoma
+212339,296_59,Lymphoma
+212340,297_59,Lymphoma
+212341,298_59,Lymphoma
+212342,299_59,Unannotated
+212343,300_59,Unannotated
+212344,301_59,Unannotated
+212345,302_59,Unannotated
+212346,303_59,Unannotated
+212347,304_59,Unannotated
+212348,305_59,Unannotated
+212349,306_59,Unannotated
+212350,307_59,Unannotated
+212351,308_59,Unannotated
+212352,309_59,Unannotated
+212353,310_59,Unannotated
+212354,311_59,Unannotated
+212355,312_59,Unannotated
+212356,313_59,Unannotated
+212357,266_60,Unannotated
+212358,267_60,Unannotated
+212359,268_60,Unannotated
+212360,269_60,Unannotated
+212361,270_60,Unannotated
+212362,271_60,Unannotated
+212363,272_60,Unannotated
+212364,273_60,Unannotated
+212365,274_60,Unannotated
+212366,275_60,Unannotated
+212367,276_60,Unannotated
+212368,277_60,Unannotated
+212369,278_60,Unannotated
+212370,279_60,Lymphoma
+212371,280_60,Lymphoma
+212372,281_60,Lymphoma
+212373,282_60,Lymphoma
+212374,283_60,Lymphoma
+212375,284_60,Unannotated
+212376,285_60,Unannotated
+212377,286_60,Unannotated
+212378,287_60,Unannotated
+212379,288_60,Unannotated
+212380,289_60,Lymphoma
+212381,290_60,Lymphoma
+212382,291_60,Lymphoma
+212383,292_60,Lymphoma
+212384,293_60,Unannotated
+212385,294_60,Lymphoma
+212386,295_60,Lymphoma
+212387,296_60,Lymphoma
+212388,297_60,Lymphoma
+212389,298_60,Lymphoma
+212390,299_60,Unannotated
+212391,300_60,Unannotated
+212392,301_60,Unannotated
+212393,302_60,Unannotated
+212394,303_60,Unannotated
+212395,304_60,Unannotated
+212396,305_60,Lymphoma
+212397,306_60,Lymphoma
+212398,307_60,Unannotated
+212399,308_60,Unannotated
+212400,309_60,Unannotated
+212401,310_60,Unannotated
+212402,311_60,Unannotated
+212403,312_60,Unannotated
+212404,313_60,Unannotated
+212405,266_61,Unannotated
+212406,267_61,Unannotated
+212407,269_61,Unannotated
+212408,270_61,Unannotated
+212409,271_61,Unannotated
+212410,272_61,Unannotated
+212411,273_61,Unannotated
+212412,274_61,Unannotated
+212413,275_61,Unannotated
+212414,276_61,Unannotated
+212415,277_61,Unannotated
+212416,278_61,Lymphoma
+212417,279_61,Lymphoma
+212418,280_61,Lymphoma
+212419,281_61,Lymphoma
+212420,282_61,Lymphoma
+212421,283_61,Unannotated
+212422,284_61,Unannotated
+212423,285_61,Unannotated
+212424,286_61,Unannotated
+212425,287_61,Unannotated
+212426,288_61,Unannotated
+212427,289_61,Unannotated
+212428,290_61,Lymphoma
+212429,291_61,Lymphoma
+212430,292_61,Unannotated
+212431,293_61,Unannotated
+212432,294_61,Unannotated
+212433,295_61,Lymphoma
+212434,296_61,Lymphoma
+212435,297_61,Lymphoma
+212436,298_61,Unannotated
+212437,299_61,Unannotated
+212438,300_61,Unannotated
+212439,301_61,Unannotated
+212440,302_61,Unannotated
+212441,303_61,Unannotated
+212442,304_61,Unannotated
+212443,305_61,Lymphoma
+212444,306_61,Lymphoma
+212445,307_61,Unannotated
+212446,308_61,Unannotated
+212447,309_61,Unannotated
+212448,310_61,Unannotated
+212449,311_61,Unannotated
+212450,312_61,Unannotated
+212451,313_61,Unannotated
+212452,267_62,Unannotated
+212453,271_62,Unannotated
+212454,272_62,Unannotated
+212455,273_62,Unannotated
+212456,274_62,Unannotated
+212457,275_62,Unannotated
+212458,276_62,Unannotated
+212459,277_62,Unannotated
+212460,278_62,Lymphoma
+212461,279_62,Unannotated
+212462,280_62,Unannotated
+212463,281_62,Unannotated
+212464,282_62,Unannotated
+212465,283_62,Unannotated
+212466,284_62,Unannotated
+212467,285_62,Unannotated
+212468,286_62,Unannotated
+212469,287_62,Unannotated
+212470,288_62,Unannotated
+212471,289_62,Unannotated
+212472,290_62,Unannotated
+212473,291_62,Unannotated
+212474,292_62,Unannotated
+212475,293_62,Unannotated
+212476,294_62,Unannotated
+212477,295_62,Lymphoma
+212478,296_62,Unannotated
+212479,297_62,Unannotated
+212480,298_62,Unannotated
+212481,299_62,Unannotated
+212482,300_62,Lymphoma
+212483,301_62,Lymphoma
+212484,302_62,Unannotated
+212485,303_62,Unannotated
+212486,304_62,Unannotated
+212487,305_62,Lymphoma
+212488,306_62,Lymphoma
+212489,307_62,Unannotated
+212490,308_62,Unannotated
+212491,309_62,Unannotated
+212492,310_62,Unannotated
+212493,311_62,Unannotated
+212494,312_62,Unannotated
+212495,273_63,Unannotated
+212496,274_63,Unannotated
+212497,275_63,Unannotated
+212498,276_63,Unannotated
+212499,277_63,Unannotated
+212500,278_63,Unannotated
+212501,279_63,Unannotated
+212502,280_63,Lymphoma
+212503,281_63,Lymphoma
+212504,282_63,Lymphoma
+212505,283_63,Lymphoma
+212506,284_63,Lymphoma
+212507,285_63,Lymphoma
+212508,286_63,Lymphoma
+212509,287_63,Unannotated
+212510,288_63,Unannotated
+212511,289_63,Unannotated
+212512,290_63,Unannotated
+212513,291_63,Unannotated
+212514,292_63,Unannotated
+212515,293_63,Unannotated
+212516,294_63,Unannotated
+212517,295_63,Unannotated
+212518,296_63,Unannotated
+212519,297_63,Unannotated
+212520,298_63,Unannotated
+212521,299_63,Lymphoma
+212522,300_63,Lymphoma
+212523,301_63,Unannotated
+212524,302_63,Unannotated
+212525,303_63,Unannotated
+212526,304_63,Unannotated
+212527,305_63,Unannotated
+212528,306_63,Unannotated
+212529,307_63,Unannotated
+212530,308_63,Unannotated
+212531,309_63,Unannotated
+212532,310_63,Unannotated
+212533,311_63,Unannotated
+212534,312_63,Unannotated
+212535,273_64,Unannotated
+212536,274_64,Unannotated
+212537,275_64,Unannotated
+212538,276_64,Unannotated
+212539,277_64,Unannotated
+212540,278_64,Unannotated
+212541,279_64,Unannotated
+212542,280_64,Lymphoma
+212543,281_64,Lymphoma
+212544,282_64,Lymphoma
+212545,283_64,Lymphoma
+212546,284_64,Lymphoma
+212547,285_64,Lymphoma
+212548,286_64,Lymphoma
+212549,287_64,Lymphoma
+212550,288_64,Lymphoma
+212551,289_64,Lymphoma
+212552,290_64,Lymphoma
+212553,291_64,Lymphoma
+212554,292_64,Lymphoma
+212555,293_64,Unannotated
+212556,294_64,Unannotated
+212557,295_64,Lymphoma
+212558,296_64,Lymphoma
+212559,297_64,Lymphoma
+212560,298_64,Lymphoma
+212561,299_64,Unannotated
+212562,300_64,Unannotated
+212563,301_64,Unannotated
+212564,302_64,Unannotated
+212565,303_64,Unannotated
+212566,304_64,Unannotated
+212567,305_64,Unannotated
+212568,306_64,Unannotated
+212569,307_64,Unannotated
+212570,308_64,Unannotated
+212571,309_64,Unannotated
+212572,310_64,Unannotated
+212573,311_64,Unannotated
+212574,312_64,Unannotated
+212575,275_65,Unannotated
+212576,276_65,Unannotated
+212577,277_65,Unannotated
+212578,278_65,Unannotated
+212579,279_65,Unannotated
+212580,280_65,Lymphoma
+212581,281_65,Lymphoma
+212582,282_65,Unannotated
+212583,283_65,Unannotated
+212584,284_65,Lymphoma
+212585,285_65,Lymphoma
+212586,286_65,Lymphoma
+212587,287_65,Lymphoma
+212588,288_65,Unannotated
+212589,289_65,Unannotated
+212590,290_65,Lymphoma
+212591,291_65,Lymphoma
+212592,292_65,Lymphoma
+212593,293_65,Lymphoma
+212594,294_65,Lymphoma
+212595,295_65,Lymphoma
+212596,296_65,Lymphoma
+212597,297_65,Lymphoma
+212598,298_65,Unannotated
+212599,299_65,Unannotated
+212600,300_65,Unannotated
+212601,301_65,Unannotated
+212602,302_65,Unannotated
+212603,303_65,Unannotated
+212604,304_65,Unannotated
+212605,305_65,Unannotated
+212606,306_65,Unannotated
+212607,307_65,Unannotated
+212608,308_65,Unannotated
+212609,309_65,Unannotated
+212610,310_65,Unannotated
+212611,311_65,Unannotated
+212612,276_66,Unannotated
+212613,277_66,Unannotated
+212614,278_66,Unannotated
+212615,279_66,Unannotated
+212616,280_66,Unannotated
+212617,281_66,Unannotated
+212618,282_66,Unannotated
+212619,283_66,Unannotated
+212620,284_66,Lymphoma
+212621,285_66,Lymphoma
+212622,286_66,Lymphoma
+212623,287_66,Lymphoma
+212624,288_66,Lymphoma
+212625,289_66,Unannotated
+212626,290_66,Unannotated
+212627,291_66,Unannotated
+212628,292_66,Lymphoma
+212629,293_66,Lymphoma
+212630,294_66,Lymphoma
+212631,295_66,Lymphoma
+212632,296_66,Unannotated
+212633,297_66,Unannotated
+212634,298_66,Lymphoma
+212635,299_66,Lymphoma
+212636,300_66,Unannotated
+212637,301_66,Unannotated
+212638,302_66,Unannotated
+212639,303_66,Unannotated
+212640,304_66,Unannotated
+212641,305_66,Unannotated
+212642,306_66,Unannotated
+212643,307_66,Unannotated
+212644,308_66,Unannotated
+212645,309_66,Unannotated
+212646,310_66,Unannotated
+212647,311_66,Unannotated
+212648,273_67,Unannotated
+212649,274_67,Unannotated
+212650,275_67,Unannotated
+212651,276_67,Unannotated
+212652,277_67,Unannotated
+212653,278_67,Unannotated
+212654,279_67,Unannotated
+212655,280_67,Unannotated
+212656,281_67,Unannotated
+212657,282_67,Unannotated
+212658,283_67,Unannotated
+212659,284_67,Unannotated
+212660,285_67,Unannotated
+212661,286_67,Lymphoma
+212662,287_67,Lymphoma
+212663,288_67,Lymphoma
+212664,289_67,Unannotated
+212665,290_67,Unannotated
+212666,291_67,Unannotated
+212667,292_67,Lymphoma
+212668,293_67,Unannotated
+212669,294_67,Unannotated
+212670,295_67,Unannotated
+212671,296_67,Lymphoma
+212672,297_67,Lymphoma
+212673,298_67,Lymphoma
+212674,299_67,Lymphoma
+212675,300_67,Lymphoma
+212676,301_67,Unannotated
+212677,302_67,Unannotated
+212678,303_67,Unannotated
+212679,304_67,Unannotated
+212680,305_67,Unannotated
+212681,306_67,Lymphoma
+212682,307_67,Lymphoma
+212683,308_67,Unannotated
+212684,309_67,Unannotated
+212685,310_67,Unannotated
+212686,311_67,Unannotated
+212687,275_68,Unannotated
+212688,276_68,Unannotated
+212689,277_68,Unannotated
+212690,278_68,Unannotated
+212691,279_68,Unannotated
+212692,280_68,Unannotated
+212693,281_68,Unannotated
+212694,282_68,Unannotated
+212695,283_68,Unannotated
+212696,284_68,Unannotated
+212697,285_68,Unannotated
+212698,286_68,Lymphoma
+212699,287_68,Lymphoma
+212700,288_68,Lymphoma
+212701,289_68,Lymphoma
+212702,290_68,Unannotated
+212703,291_68,Unannotated
+212704,292_68,Unannotated
+212705,293_68,Unannotated
+212706,294_68,Unannotated
+212707,295_68,Unannotated
+212708,296_68,Lymphoma
+212709,297_68,Lymphoma
+212710,298_68,Lymphoma
+212711,299_68,Lymphoma
+212712,300_68,Lymphoma
+212713,301_68,Lymphoma
+212714,302_68,Unannotated
+212715,303_68,Lymphoma
+212716,304_68,Lymphoma
+212717,305_68,Lymphoma
+212718,306_68,Lymphoma
+212719,307_68,Lymphoma
+212720,308_68,Unannotated
+212721,309_68,Unannotated
+212722,310_68,Unannotated
+212723,276_69,Unannotated
+212724,277_69,Unannotated
+212725,280_69,Unannotated
+212726,281_69,Unannotated
+212727,282_69,Unannotated
+212728,283_69,Unannotated
+212729,284_69,Unannotated
+212730,285_69,Unannotated
+212731,286_69,Lymphoma
+212732,287_69,Lymphoma
+212733,288_69,Lymphoma
+212734,289_69,Lymphoma
+212735,290_69,Lymphoma
+212736,291_69,Unannotated
+212737,292_69,Unannotated
+212738,293_69,Unannotated
+212739,294_69,Unannotated
+212740,295_69,Unannotated
+212741,296_69,Unannotated
+212742,297_69,Lymphoma
+212743,298_69,Lymphoma
+212744,299_69,Lymphoma
+212745,300_69,Lymphoma
+212746,301_69,Lymphoma
+212747,302_69,Lymphoma
+212748,303_69,Lymphoma
+212749,304_69,Lymphoma
+212750,305_69,Lymphoma
+212751,306_69,Lymphoma
+212752,307_69,Unannotated
+212753,308_69,Unannotated
+212754,309_69,Unannotated
+212755,310_69,Unannotated
+212756,277_70,Unannotated
+212757,278_70,Unannotated
+212758,281_70,Unannotated
+212759,282_70,Unannotated
+212760,283_70,Unannotated
+212761,284_70,Unannotated
+212762,285_70,Unannotated
+212763,286_70,Lymphoma
+212764,287_70,Lymphoma
+212765,288_70,Lymphoma
+212766,289_70,Lymphoma
+212767,290_70,Lymphoma
+212768,291_70,Lymphoma
+212769,292_70,Lymphoma
+212770,293_70,Unannotated
+212771,294_70,Unannotated
+212772,295_70,Unannotated
+212773,296_70,Unannotated
+212774,297_70,Unannotated
+212775,298_70,Lymphoma
+212776,299_70,Lymphoma
+212777,300_70,Lymphoma
+212778,301_70,Lymphoma
+212779,302_70,Lymphoma
+212780,303_70,Lymphoma
+212781,304_70,Lymphoma
+212782,305_70,Lymphoma
+212783,306_70,Unannotated
+212784,307_70,Unannotated
+212785,308_70,Unannotated
+212786,309_70,Unannotated
+212787,282_71,Unannotated
+212788,283_71,Unannotated
+212789,284_71,Epidermotropism
+212790,285_71,Epidermotropism
+212791,286_71,Unannotated
+212792,287_71,Lymphoma
+212793,288_71,Lymphoma
+212794,289_71,Lymphoma
+212795,290_71,Lymphoma
+212796,291_71,Lymphoma
+212797,292_71,Lymphoma
+212798,293_71,Unannotated
+212799,294_71,Unannotated
+212800,295_71,Unannotated
+212801,296_71,Unannotated
+212802,297_71,Unannotated
+212803,298_71,Lymphoma
+212804,299_71,Lymphoma
+212805,300_71,Lymphoma
+212806,301_71,Lymphoma
+212807,302_71,Lymphoma
+212808,303_71,Unannotated
+212809,304_71,Unannotated
+212810,305_71,Unannotated
+212811,306_71,Unannotated
+212812,307_71,Unannotated
+212813,308_71,Unannotated
+212814,283_72,Unannotated
+212815,284_72,Unannotated
+212816,285_72,Epidermotropism
+212817,286_72,Epidermotropism
+212818,287_72,Epidermotropism
+212819,288_72,Lymphoma
+212820,289_72,Lymphoma
+212821,290_72,Lymphoma
+212822,291_72,Lymphoma
+212823,292_72,Lymphoma
+212824,293_72,Epidermotropism
+212825,294_72,Epidermotropism
+212826,295_72,Epidermotropism
+212827,296_72,Unannotated
+212828,297_72,Lymphoma
+212829,298_72,Lymphoma
+212830,299_72,Lymphoma
+212831,300_72,Unannotated
+212832,301_72,Unannotated
+212833,302_72,Unannotated
+212834,303_72,Unannotated
+212835,304_72,Unannotated
+212836,305_72,Unannotated
+212837,306_72,Unannotated
+212838,307_72,Unannotated
+212839,308_72,Unannotated
+212840,284_73,Unannotated
+212841,285_73,Unannotated
+212842,286_73,Epidermotropism
+212843,287_73,Epidermotropism
+212844,288_73,Unannotated
+212845,289_73,Unannotated
+212846,290_73,Lymphoma
+212847,291_73,Lymphoma
+212848,292_73,Epidermotropism
+212849,293_73,Epidermotropism
+212850,294_73,Epidermotropism
+212851,295_73,Epidermotropism
+212852,296_73,Unannotated
+212853,297_73,Lymphoma
+212854,298_73,Lymphoma
+212855,299_73,Unannotated
+212856,300_73,Unannotated
+212857,301_73,Lymphoma
+212858,302_73,Lymphoma
+212859,303_73,Unannotated
+212860,304_73,Unannotated
+212861,305_73,Unannotated
+212862,306_73,Unannotated
+212863,308_73,Unannotated
+212864,285_74,Unannotated
+212865,286_74,Unannotated
+212866,287_74,Epidermotropism
+212867,288_74,Unannotated
+212868,289_74,Unannotated
+212869,290_74,Unannotated
+212870,291_74,Unannotated
+212871,292_74,Epidermotropism
+212872,293_74,Epidermotropism
+212873,294_74,Epidermotropism
+212874,295_74,Unannotated
+212875,296_74,Unannotated
+212876,297_74,Unannotated
+212877,298_74,Unannotated
+212878,299_74,Unannotated
+212879,300_74,Lymphoma
+212880,301_74,Lymphoma
+212881,302_74,Lymphoma
+212882,303_74,Unannotated
+212883,304_74,Unannotated
+212884,305_74,Unannotated
+212885,306_74,Unannotated
+212886,286_75,Unannotated
+212887,287_75,Unannotated
+212888,288_75,Unannotated
+212889,289_75,Unannotated
+212890,290_75,Unannotated
+212891,291_75,Unannotated
+212892,292_75,Unannotated
+212893,293_75,Unannotated
+212894,294_75,Unannotated
+212895,295_75,Unannotated
+212896,296_75,Unannotated
+212897,297_75,Unannotated
+212898,298_75,Lymphoma
+212899,299_75,Lymphoma
+212900,300_75,Lymphoma
+212901,301_75,Lymphoma
+212902,302_75,Unannotated
+212903,303_75,Unannotated
+212904,287_76,Unannotated
+212905,288_76,Unannotated
+212906,289_76,Unannotated
+212907,290_76,Unannotated
+212908,291_76,Unannotated
+212909,292_76,Unannotated
+212910,293_76,Unannotated
+212911,294_76,Unannotated
+212912,295_76,Unannotated
+212913,296_76,Unannotated
+212914,297_76,Unannotated
+212915,298_76,Unannotated
+212916,299_76,Lymphoma
+212917,300_76,Lymphoma
+212918,301_76,Unannotated
+212919,302_76,Unannotated
+212920,303_76,Lymphoma
+212921,288_77,Unannotated
+212922,289_77,Unannotated
+212923,290_77,Unannotated
+212924,291_77,Unannotated
+212925,292_77,Unannotated
+212926,293_77,Unannotated
+212927,294_77,Unannotated
+212928,295_77,Unannotated
+212929,296_77,Unannotated
+212930,297_77,Unannotated
+212931,298_77,Unannotated
+212932,299_77,Lymphoma
+212933,300_77,Lymphoma
+212934,301_77,Lymphoma
+212935,302_77,Lymphoma
+212936,303_77,Lymphoma
+212937,304_77,Unannotated
+212938,305_77,Unannotated
+212939,290_78,Unannotated
+212940,291_78,Unannotated
+212941,292_78,Unannotated
+212942,293_78,Unannotated
+212943,294_78,Epidermotropism
+212944,295_78,Epidermotropism
+212945,296_78,Unannotated
+212946,297_78,Unannotated
+212947,298_78,Lymphoma
+212948,299_78,Lymphoma
+212949,300_78,Lymphoma
+212950,301_78,Lymphoma
+212951,302_78,Lymphoma
+212952,303_78,Unannotated
+212953,304_78,Unannotated
+212954,292_79,Unannotated
+212955,293_79,Unannotated
+212956,294_79,Epidermotropism
+212957,295_79,Epidermotropism
+212958,296_79,Epidermotropism
+212959,297_79,Lymphoma
+212960,298_79,Lymphoma
+212961,299_79,Unannotated
+212962,300_79,Unannotated
+212963,301_79,Epidermotropism
+212964,302_79,Epidermotropism
+212965,303_79,Unannotated
+212966,293_80,Unannotated
+212967,294_80,Unannotated
+212968,295_80,Epidermotropism
+212969,296_80,Unannotated
+212970,297_80,Unannotated
+212971,298_80,Unannotated
+212972,299_80,Unannotated
+212973,300_80,Unannotated
+212974,301_80,Unannotated
+212975,302_80,Unannotated
+212976,295_81,Unannotated
+212977,296_81,Unannotated
+212978,297_81,Unannotated
+212979,298_81,Unannotated
+212980,299_81,Unannotated
+212981,300_81,Unannotated
+212982,297_82,Unannotated
