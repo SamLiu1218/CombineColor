@@ -161,7 +161,7 @@ def add_legend(im, pcolor_dict, bg=(0,0,0)):
     '''
     # select font
     if 'darwin' in sys.platform:
-        Fontttf = "Keyboard.tff"
+        Fontttf = "Keyboard.ttf"
     else:
         Fontttf = "arial.ttf"
     
