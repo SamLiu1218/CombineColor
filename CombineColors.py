@@ -160,10 +160,11 @@ def add_legend(im, pcolor_dict, bg=(0,0,0)):
     Add colored legend of element names below an image.
     '''
     # select font
-    if 'win' in sys.platform:
-        Fontttf = "arial.ttf"
-    else:
+    if 'darwin' in sys.platform:
         Fontttf = "Keyboard.tff"
+    else:
+        Fontttf = "arial.ttf"
+    
     
     padding = int(height*0.05)
     fontheight = int(padding*0.7)
