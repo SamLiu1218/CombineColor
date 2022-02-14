@@ -1,3 +1,3 @@
 # CombineColor
 
-See CombineColor.ipynb for examples.
+See Demo.ipynb for examples.
