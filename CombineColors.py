@@ -121,7 +121,7 @@ def CombineColor(pages, pagecolors = {}, bg = 'black', mode = 'layer', palette =
 
     for p in pagenames: # pagename
         D = pages_dict[p] # data
-        D = D/np.max(D) if normalize else D
+        D = D/mac(1, np.max(D)) if normalize else D
         c = pcolor_dict[p] # rgb
         
         if mode =='layer':
